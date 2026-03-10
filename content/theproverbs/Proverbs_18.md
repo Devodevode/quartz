@@ -1,0 +1,130 @@
+# Proverbs 18
+
+← [[theproverbs/Proverbs_17|Proverbs 17]]  ·  [[theproverbs/Proverbs_19|Proverbs 19]] →
+
+---
+
+## Verses 1–24: Words, Wealth, and Wisdom
+
+**1**
+לְֽ֭תַאֲוָה יְבַקֵּ֣שׁ נִפְרָ֑ד בְּכׇל־תּ֝וּשִׁיָּ֗ה יִתְגַּלָּֽע׃
+*Le-ta'avah yevaqesh nifrad, be-khol-tushiyyah yitgalla.*
+Those who isolate themselves pursue their desires; they disdain all competence.
+
+**2**
+לֹא־יַחְפֹּ֣ץ כְּ֭סִיל בִּתְבוּנָ֑ה כִּ֝֗י אִֽם־בְּהִתְגַּלּ֥וֹת לִבּֽוֹ׃
+*Lo-yachpotz kesil bi-tevunah, ki im-be-hitgallot libbo.*
+Fools do not desire understanding, but only to air their thoughts.
+
+**3**
+בְּֽבוֹא־רָ֭שָׁע בָּ֣א גַם־בּ֑וּז וְֽעִם־קָל֥וֹן חֶרְפָּֽה׃
+*Be-vo-rasha ba gam-buz, ve-im-qalon cherpah.*
+Along with the wicked comes derision, and with rogues, contempt.
+
+**4**
+מַ֣יִם עֲ֭מֻקִּים דִּבְרֵ֣י פִי־אִ֑ישׁ נַ֥חַל נֹ֝בֵ֗עַ מְק֣וֹר חׇכְמָֽה׃
+*Mayim amuqqim divrei fi-ish, nachal nove'a meqor chokhmah.*
+The words a person speaks are deep waters, a flowing stream, a fountain of wisdom.
+
+**5**
+שְׂאֵ֣ת פְּנֵי־רָשָׁ֣ע לֹא־ט֑וֹב לְהַטּ֥וֹת צַ֝דִּ֗יק בַּמִּשְׁפָּֽט׃
+*Se'et penei-rasha lo-tov, le-hattot tzaddiq ba-mishpat.*
+It is not right to be partial to the guilty and subvert the innocent in judgment.
+
+**6**
+שִׂפְתֵ֣י כְ֭סִיל יָבֹ֣אוּ בְרִ֑יב וּ֝פִ֗יו לְֽמַהֲלֻמ֥וֹת יִקְרָֽא׃
+*Siftei kesil yavo'u ve-riv, u-fiv le-mahalumot yiqra.*
+The words of fools lead to strife; their speech invites blows.
+
+**7**
+פִּֽי־כְ֭סִיל מְחִתָּה־ל֑וֹ וּ֝שְׂפָתָ֗יו מוֹקֵ֥שׁ נַפְשֽׁוֹ׃
+*Pi-khesil mechittah-lo, u-sefatav moqesh nafsho.*
+The fools' speech is their ruin; their words are a trap for them.
+
+**8**
+דִּבְרֵ֣י נִ֭רְגָּן כְּמִֽתְלַהֲמִ֑ים וְ֝הֵ֗ם יָרְד֥וּ חַדְרֵי־בָֽטֶן׃
+*Divrei nirgan ke-mitlahamim, ve-hem yardu chadreit-baten.*
+The words of a grumbler are bruising; they penetrate one's inmost parts.
+
+**9**
+גַּ֭ם מִתְרַפֶּ֣ה בִמְלַאכְתּ֑וֹ אָ֥ח ה֝֗וּא לְבַ֣עַל מַשְׁחִֽית׃
+*Gam mitrapeh vi-melakhto, ach hu le-va'al mashchit.*
+One who is slack at work is akin to a vandal.
+
+**10**
+מִגְדַּל־עֹ֭ז שֵׁ֣ם יְהֹוָ֑ה בּֽוֹ־יָר֖וּץ צַדִּ֣יק וְנִשְׂגָּֽב׃
+*Migdal-oz shem Adonai, bo-yarutz tzaddiq ve-nisgav.*
+GOD's name is a tower of strength to which the righteous run and are safe.
+
+**11**
+ה֣וֹן עָ֭שִׁיר קִרְיַ֣ת עֻזּ֑וֹ וּכְחוֹמָ֥ה נִ֝שְׂגָּבָ֗ה בְּמַשְׂכִּתֽוֹ׃
+*Hon ashir qiryat uzzo, u-khe-chomah nisgavah be-maskito.*
+The wealth of the rich is their fortress; in their fancy it is a protective wall.
+
+**12**
+לִפְנֵי־שֶׁ֭בֶר יִגְבַּ֣הּ לֶב־אִ֑ישׁ וְלִפְנֵ֖י כָב֣וֹד עֲנָוָֽה׃
+*Lifnei-shever yigbah lev-ish, ve-lifnei khavod anavah.*
+Before ruin a person's heart is proud; humility goes before honor.
+
+**13**
+מֵשִׁ֣יב דָּ֭בָר בְּטֶ֣רֶם יִשְׁמָ֑ע אִוֶּ֥לֶת הִיא־ל֝֗וֹ וּכְלִמָּֽה׃
+*Meshiv davar be-terem yishma, ivvelet hi-lo u-kelimmah.*
+To answer before listening — this is foolish and disgraceful.
+
+**14**
+רֽוּחַ־אִ֭ישׁ יְכַלְכֵּ֣ל מַחֲלֵ֑הוּ וְר֥וּחַ נְ֝כֵאָ֗ה מִ֣י יִשָּׂאֶֽנָּה׃
+*Ruach-ish yekhalkel machaleihu, ve-ruach nekhe'ah mi yissa'ennah.*
+A person's spirit can endure an illness; but low spirits — who can bear them?
+
+**15**
+לֵ֣ב נָ֭בוֹן יִקְנֶה־דָּ֑עַת וְאֹ֥זֶן חֲ֝כָמִ֗ים תְּבַקֶּשׁ־דָּֽעַת׃
+*Lev navon yiqneh-da'at, ve-ozen chakhamim tevaqesh-da'at.*
+The mind of an intelligent person acquires knowledge; the ears of the wise seek out knowledge.
+
+**16**
+מַתָּ֣ן אָ֭דָם יַרְחִ֣יב ל֑וֹ וְלִפְנֵ֖י גְדֹלִ֣ים יַנְחֶֽנּוּ׃
+*Mattan adam yarchiv lo, ve-lifnei gedolim yanchennuj.*
+A gift eases a person's way and gives access to the great.
+
+**17**
+צַדִּ֣יק הָרִאשׁ֣וֹן בְּרִיב֑וֹ וּבָֽא־רֵ֝עֵ֗הוּ וַחֲקָרֽוֹ׃
+*Tzaddiq ha-rishon be-rivo, u-va-re'ehu va-chaqaro.*
+The first to speak in court seems right till the other party cross-examines.
+
+**18**
+מִ֭דְיָנִים יַשְׁבִּ֣ית הַגּוֹרָ֑ל וּבֵ֖ין עֲצוּמִ֣ים יַפְרִֽיד׃
+*Midyanim yashbit ha-goral, u-vein atzumim yafrid.*
+The lot puts an end to strife and separates those locked in dispute.
+
+**19**
+אָ֗ח נִפְשָׁ֥ע מִקִּרְיַת־עֹ֑ז וּ֝מִדְיָנִ֗ים כִּבְרִ֥יחַ אַרְמֽוֹן׃
+*Ach nifsha mi-qiryat-oz, u-midyanim ki-veriach armon.*
+A sibling offended is more formidable than a stronghold; such strife is like the bars of a fortress.
+
+**20**
+מִפְּרִ֣י פִי־אִ֭ישׁ תִּשְׂבַּ֣ע בִּטְנ֑וֹ תְּבוּאַ֖ת שְׂפָתָ֣יו יִשְׂבָּֽע׃
+*Mi-peri fi-ish tisba bitno, tevuat sefatav yisba.*
+A man's belly is filled by the fruit of his mouth; he will be filled by the produce of his lips.
+
+**21**
+מָ֣וֶת וְ֭חַיִּים בְּיַד־לָשׁ֑וֹן וְ֝אֹהֲבֶ֗יהָ יֹאכַ֥ל פִּרְיָֽהּ׃
+*Mavet ve-chayyim be-yad-lashon, ve-ohaveha yokhal piryah.*
+Death and life are in the power of the tongue; those who love it will eat its fruit.
+
+**22**
+מָצָ֣א אִ֭שָּׁה מָ֣צָא ט֑וֹב וַיָּ֥פֶק רָ֝צ֗וֹן מֵיְהֹוָֽה׃
+*Matza ishah matza tov, va-yafеq ratzon me-Adonai.*
+He who finds a wife has found happiness and has won GOD's favor.
+
+**23**
+תַּחֲנוּנִ֥ים יְדַבֶּר־רָ֑שׁ וְ֝עָשִׁ֗יר יַעֲנֶ֥ה עַזּֽוֹת׃
+*Tachanunnim yedabber-rash, ve-ashir ya'aneh azzot.*
+The pauper speaks in terms of mercy; the rich person's answer is harsh.
+
+**24**
+אִ֣ישׁ רֵ֭עִים לְהִתְרֹעֵ֑עַ וְיֵ֥שׁ אֹ֝הֵ֗ב דָּבֵ֥ק מֵאָֽח׃
+*Ish re'im le-hitro'e'a, ve-yesh ohev dabeq me-ach.*
+There are companions to keep one company, and there is a friend more devoted than a sibling.
+---
+
+← [[theproverbs/Proverbs_17|Proverbs 17]]  ·  [[theproverbs/Proverbs_19|Proverbs 19]] →
