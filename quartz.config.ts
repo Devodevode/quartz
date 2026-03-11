@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 /**
  * Quartz Configuration
  *
- * See https://trulythebesthackerever.github.io/quartz/configuration for more information.
+ * See https://dockertor.github.io/quartz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
