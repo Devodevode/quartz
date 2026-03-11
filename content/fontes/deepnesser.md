@@ -7,7 +7,7 @@ tags: [source]
 ## Deepness: O Framework Unificado
 
 > ⚠️ **Este é o documento-fonte original — verbatim, sem modificações.**
-> Síntese e referências cruzadas estão em [[frameworks/deepnesser|Deepnesser (framework)]].
+> Síntese e referências cruzadas estão em [[estruturas/deepnesser|Deepnesser (framework)]].
 
 ---
 

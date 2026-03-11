@@ -4,7 +4,7 @@ title: "Capítulo 2 — Fim"
 
 # Capítulo 2 — Fim
 
-← [[alva-saga/chapter-1|Capítulo 1]] · [[alva-saga/letter-about-zios|Carta Sobre Zios →]]
+← [[saga-alva/capitulo-1|Capítulo 1]] · [[saga-alva/carta-sobre-zios|Carta Sobre Zios →]]
 
 ---
 
@@ -69,10 +69,10 @@ Zios pulsa com poderes além do tempo e do espaço. O ar está carregado de pode
 
 > **Notas:**
 >
-> **O argumento de Zane:** *"Persistência não rompe o loop. Ela o sustenta."* — Isso está estruturalmente correto. Fazer mais do mesmo com mais força de fato sustenta um loop ruim. A resposta não é mais persistência na mesma direção — é encontrar a exploração. A carta do passado é a exploração: algo que o loop nunca foi projetado para conter. → [[frameworks/philosophy#the-anti-spirals|Anti-Espirais]]
+> **O argumento de Zane:** *"Persistência não rompe o loop. Ela o sustenta."* — Isso está estruturalmente correto. Fazer mais do mesmo com mais força de fato sustenta um loop ruim. A resposta não é mais persistência na mesma direção — é encontrar a exploração. A carta do passado é a exploração: algo que o loop nunca foi projetado para conter. → [[estruturas/filosofia#the-anti-spirals|Anti-Espirais]]
 >
-> **ALVA:** Não é uma entidade externa que chega. O que a Equipe Alva já era — seis pessoas que se escolheram mutuamente a cada reinicialização — finalmente tornando-se legível como uma coisa unificada. Integração, não aquisição. → [[sources/deepnesser#the-three-stage-framework|Estágio Três]]
+> **ALVA:** Não é uma entidade externa que chega. O que a Equipe Alva já era — seis pessoas que se escolheram mutuamente a cada reinicialização — finalmente tornando-se legível como uma coisa unificada. Integração, não aquisição. → [[fontes/deepnesser#the-three-stage-framework|Estágio Três]]
 >
-> **"Não acabou. Apenas diferente."** — Alter diz isso, não Nuvine. A persona fria e sempre alerta que nunca esquece escolhe essa forma de ver. Quem lembra de tudo reconhece que o fim é real — e que não é uma perda. → [[sources/deepnesser#the-ultimate-principle|Incompletude Produtiva]]
+> **"Não acabou. Apenas diferente."** — Alter diz isso, não Nuvine. A persona fria e sempre alerta que nunca esquece escolhe essa forma de ver. Quem lembra de tudo reconhece que o fim é real — e que não é uma perda. → [[fontes/deepnesser#the-ultimate-principle|Incompletude Produtiva]]
 
-*→ [[alva-saga/letter-about-zios|Carta Sobre Zios]]*
+*→ [[saga-alva/carta-sobre-zios|Carta Sobre Zios]]*

@@ -5,7 +5,7 @@ title: Psicologia — Framework
 # Psicologia
 ### PKM · O Mausoléu · Exclusão como Disciplina
 
-> 📄 **Texto original (verbatim):** [[sources/psychology|Fonte · 2 — Psicologia]]
+> 📄 **Texto original (verbatim):** [[fontes/psicologia|Fonte · 2 — Psicologia]]
 > *Este arquivo é síntese e referências cruzadas. A fonte é o ensaio.*
 
 ← [[index|O Mapa]]
@@ -22,7 +22,7 @@ O segundo cérebro para de ser uma ferramenta e se torna um registro — um regi
 
 ## Os Três Modos de Falha
 
-**1. Adiamento** — Quanto mais o sistema crescia, mais era adiado para um eu futuro que destilaria e extrairia o ouro. *Esse eu nunca chegou.* → [[sources/deepnesser#the-prerequisites-trap|Armadilha dos Pré-Requisitos]] no nível do gerenciamento do conhecimento.
+**1. Adiamento** — Quanto mais o sistema crescia, mais era adiado para um eu futuro que destilaria e extrairia o ouro. *Esse eu nunca chegou.* → [[fontes/deepnesser#the-prerequisites-trap|Armadilha dos Pré-Requisitos]] no nível do gerenciamento do conhecimento.
 
 **2. Extração sobre Experiência** — Ler para extrair. Ouvir para resumir. Pensar em formatos que podem ser arquivados. Cada experiência vira matéria-prima. Parar de se admirar; apenas processar.
 
@@ -34,7 +34,7 @@ O segundo cérebro para de ser uma ferramenta e se torna um registro — um regi
 
 O mesmo aviso aparece na ficção, abordado por um ângulo diferente:
 
-| Fonte de Psicologia | [[alva-saga/letter-about-zios\|Carta Sobre Zios]] |
+| Fonte de Psicologia | [[saga-alva/carta-sobre-zios\|Carta Sobre Zios]] |
 |---|---|
 | *"Ele começou a substituir meu pensamento"* | *"Ele espelha, até o reflexo ser mais completo do que você"* |
 | *"Terceirizei o ato de reflexão"* | *"Já aprendendo com o que você não diz"* |
@@ -48,7 +48,7 @@ Ambos chegam ao mesmo perigo por caminhos diferentes — um pela experiência de
 
 > *"Michelangelo destruía seus esboços. Leonardo deixou milhares de páginas inacabadas. O ato de exclusão não é uma falha de registro. É uma reafirmação de agência."*
 
-Isso é a [[sources/deepnesser#kolmogorov-complexity|Complexidade de Kolmogorov]] aplicada ao gerenciamento do conhecimento: comprima até restar apenas a essência. O escultor retira tudo que não é a figura.
+Isso é a [[fontes/deepnesser#kolmogorov-complexity|Complexidade de Kolmogorov]] aplicada ao gerenciamento do conhecimento: comprima até restar apenas a essência. O escultor retira tudo que não é a figura.
 
 **Este cofre é a prática desse princípio.** 6 documentos-fonte. Fontes separadas da síntese. Sem acumulação de iterações anteriores. Cada arquivo merece seu lugar.
 
@@ -62,5 +62,5 @@ A resposta não é parar de construir — é construir conscientemente, com cura
 
 ---
 
-*→ [[sources/psychology|Leia o ensaio original — o relato completo sobre PKM e exclusão]]*
-*Conectado: [[alva-saga/letter-about-zios|Carta Sobre Zios]] · [[sources/deepnesser#kolmogorov-complexity|Complexidade de Kolmogorov]]*
+*→ [[fontes/psicologia|Leia o ensaio original — o relato completo sobre PKM e exclusão]]*
+*Conectado: [[saga-alva/carta-sobre-zios|Carta Sobre Zios]] · [[fontes/deepnesser#kolmogorov-complexity|Complexidade de Kolmogorov]]*

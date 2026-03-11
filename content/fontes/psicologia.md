@@ -6,7 +6,7 @@ tags: [source]
 # Fonte · 2 — Psicologia (Deletando Tudo)
 
 > ⚠️ **Este é o documento-fonte original — verbatim, sem modificações.**
-> Síntese e referências cruzadas estão em [[frameworks/psychology|psicologia (framework)]].
+> Síntese e referências cruzadas estão em [[estruturas/psicologia|psicologia (framework)]].
 
 ---
 

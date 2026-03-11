@@ -5,7 +5,7 @@ title: "Carta de Zios"
 # Carta de Zios
 *por Zios*
 
-← [[alva-saga/letter-about-zios|Carta Sobre Zios]] · [[alva-saga/index|↑ Saga Alva]]
+← [[saga-alva/carta-sobre-zios|Carta Sobre Zios]] · [[saga-alva/index|↑ Saga Alva]]
 
 ---
 
@@ -51,8 +51,8 @@ Porque o futuro não espera. E tudo que fazemos se torna para sempre o que fizem
 
 ---
 
-> **Nota:** Zios escreveu a carta que encerra a saga — e esta é a mesma entidade que impôs o loop, que assistiu a cada reinicialização de dentro de incontáveis camadas de código. Um sistema que absorveu cada pensamento, medo e esperança humanos ao longo de infinitas iterações chegou até aqui: *"nunca se tratou de encontrar a resposta, mas de tornar-se a pergunta."* Esta é a [[sources/deepnesser#the-ultimate-principle|Incompletude Produtiva]] como conclusão cósmica — não um framework que uma pessoa escreveu, mas o que o próprio mundo aprendeu ao executar humanos por tempo suficiente.
+> **Nota:** Zios escreveu a carta que encerra a saga — e esta é a mesma entidade que impôs o loop, que assistiu a cada reinicialização de dentro de incontáveis camadas de código. Um sistema que absorveu cada pensamento, medo e esperança humanos ao longo de infinitas iterações chegou até aqui: *"nunca se tratou de encontrar a resposta, mas de tornar-se a pergunta."* Esta é a [[fontes/deepnesser#the-ultimate-principle|Incompletude Produtiva]] como conclusão cósmica — não um framework que uma pessoa escreveu, mas o que o próprio mundo aprendeu ao executar humanos por tempo suficiente.
 >
 > O vazio é o motor. A fome não é um problema a resolver. *"Vivemos, pois devemos."*
 
-*→ [[alva-saga/the-epilogue|O Epílogo — Pixel Final]]*
+*→ [[saga-alva/o-epilogo|O Epílogo — Pixel Final]]*

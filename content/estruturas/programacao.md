@@ -5,7 +5,7 @@ title: Programação — Framework
 # Programação
 ### Falhe Mais Rápido · V1 Precisa Falhar · Espiralize em Direção ao Centro
 
-> 📄 **Texto original (verbatim):** [[sources/programming|Fonte · 4 — Programação]]
+> 📄 **Texto original (verbatim):** [[fontes/programacao|Fonte · 4 — Programação]]
 > *Este arquivo é síntese e referências cruzadas. A fonte é o ensaio.*
 
 ← [[index|O Mapa]]
@@ -26,7 +26,7 @@ Mario: *"um encanador drogado."* Sonic: *"um ouriço índigo usando tênis."* Ge
 
 V1 não deve ser bom. V1 deve *existir.* Equipes que passaram tempo demais aperfeiçoando o conceito tornaram o V1 emocionalmente caro de abandonar — então não conseguiam abandoná-lo quando deveriam.
 
-Isso é a [[sources/deepnesser#the-prerequisites-trap|Armadilha dos Pré-Requisitos]] na forma de produto. Esperar pela ideia perfeita antes de começar = esperar estar pronto antes de aprender.
+Isso é a [[fontes/deepnesser#the-prerequisites-trap|Armadilha dos Pré-Requisitos]] na forma de produto. Esperar pela ideia perfeita antes de começar = esperar estar pronto antes de aprender.
 
 ---
 
@@ -36,7 +36,7 @@ Isso é a [[sources/deepnesser#the-prerequisites-trap|Armadilha dos Pré-Requisi
 
 Não melhoria linear. Não reinicializações do zero. *Espiralizando* — cada passagem carregando para frente os modos de falha específicos da última. V5 é construído sobre o que quebrou no V4. Esta é também a cadeia de arquivos: G1→G12, cada geração identificando o que a anterior perdeu. Nenhuma desperdiçada.
 
-*Ver: [[frameworks/literature#the-cyclical-structure|Estrutura cíclica da Jornada do Herói]]*
+*Ver: [[estruturas/literatura#the-cyclical-structure|Estrutura cíclica da Jornada do Herói]]*
 
 ---
 
@@ -56,9 +56,9 @@ Faça isso antes de ter código. Papel. Palavras numa página. Arte conceitual d
 
 A cadeia de arquivos (G1→G12) demonstra esse princípio aplicado à autodocumentação. Cada versão identificou o que a versão anterior perdeu. Cada uma estava incompleta em comparação com a próxima. Nenhuma foi desperdiçada. As versões "perfeitas" anteriores eram necessárias — são as iterações que tornaram a atual possível.
 
-*Ver: [[sources/deepnesser#greedy-optimization|Otimização Gananciosa]] — tome a melhor opção a cada passo, sem apego ao passo anterior.*
+*Ver: [[fontes/deepnesser#greedy-optimization|Otimização Gananciosa]] — tome a melhor opção a cada passo, sem apego ao passo anterior.*
 
 ---
 
-*→ [[sources/programming|Leia o ensaio original — o argumento completo do "falhe mais rápido"]]*
-*Conectado: [[sources/deepnesser#the-v-curve|Curva-V]] · [[sources/deepnesser#the-prerequisites-trap|Armadilha dos Pré-Requisitos]] · [[sources/deepnesser#greedy-optimization|Otimização Gananciosa]]*
+*→ [[fontes/programacao|Leia o ensaio original — o argumento completo do "falhe mais rápido"]]*
+*Conectado: [[fontes/deepnesser#the-v-curve|Curva-V]] · [[fontes/deepnesser#the-prerequisites-trap|Armadilha dos Pré-Requisitos]] · [[fontes/deepnesser#greedy-optimization|Otimização Gananciosa]]*

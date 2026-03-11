@@ -11,7 +11,7 @@ type: source
 # Fonte · 5 — Meditações
 ### As Meditações Concisas de Marco Aurélio — Verbatim
 
-> 🔗 **Síntese e referências cruzadas:** [[frameworks/z-sum-meditations|Framework — Meditações]]
+> 🔗 **Síntese e referências cruzadas:** [[estruturas/z-sum-meditacoes|Framework — Meditações]]
 > *Este arquivo é o texto-fonte. Não edite para comentários — use o framework.*
 
 ← [[index|O Mapa]]

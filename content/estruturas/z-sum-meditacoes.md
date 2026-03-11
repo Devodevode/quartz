@@ -15,7 +15,7 @@ type: framework
 # Meditações — Marco Aurélio
 ### Estoicismo · Vontade de Viver Bem · A Faculdade Racional
 
-> 📄 **Texto original (verbatim):** [[sources/z-meditations|Fonte · 5 — Meditações]]
+> 📄 **Texto original (verbatim):** [[fontes/z-meditacoes|Fonte · 5 — Meditações]]
 > *Este arquivo é síntese e referências cruzadas. A fonte é o texto em prosa.*
 
 ← [[index|O Mapa]]
@@ -348,7 +348,7 @@ Siga a razão. Aja de acordo com sua natureza como ser racional. Sustente as qua
 
 ## Relacionados
 
-- [[frameworks/philosophy|Filosofia — Nietzsche · Vontade de Poder]]
-- [[frameworks/psychology|Psicologia — Exclusão como Disciplina]]
-- [[sources/z-meditations|Fonte · 5 — Meditações (verbatim)]]
+- [[estruturas/filosofia|Filosofia — Nietzsche · Vontade de Poder]]
+- [[estruturas/psicologia|Psicologia — Exclusão como Disciplina]]
+- [[fontes/z-meditacoes|Fonte · 5 — Meditações (verbatim)]]
 - [[index|O Mapa]]

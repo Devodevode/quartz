@@ -6,7 +6,7 @@ title: "0-Prólogo — Pixel Primo"
 
 > *"Eles não vêm para conquistar, mas para lembrar quem um dia foram."*
 
-← [[alva-saga/index|Saga Alva]] · [[alva-saga/chapter-1|Capítulo 1 →]]
+← [[saga-alva/index|Saga Alva]] · [[saga-alva/capitulo-1|Capítulo 1 →]]
 
 ---
 
@@ -37,7 +37,7 @@ A carta se apaga. Cinco figuras encapuzadas despertam. Elas não conseguem ver m
 
 **Nuvine**, a gênio amnésica e sua persona robótica fria, **Alter**.
 **Aesu**, o artista louco.
-**Lumi**, a hackeadora suprema.
+**Lumi**, a hacker suprema.
 **Vonor**, o detetive preguiçoso.
 **Brinia**, a naturalista selvagem.
 
@@ -52,4 +52,4 @@ Em algum lugar de Zios, nas profundezas de incontáveis camadas de código, uma 
 
 > **Nota:** A carta de Aesu é endereçada a Lumi — sua companheira em cada versão do mundo. A carta é a arma. É também a prova: amor demais, memória demais, concentrados em um único ponto, são fatais para um sistema projetado para a neutralidade.
 
-*→ [[alva-saga/chapter-1|Capítulo 1 — Cosmos]]*
+*→ [[saga-alva/capitulo-1|Capítulo 1 — Cosmos]]*

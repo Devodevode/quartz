@@ -5,7 +5,7 @@ title: Literatura — Framework
 # Literatura
 ### Campbell · Jornada do Herói · Siga sua Felicidade
 
-> 📄 **Texto original (verbatim):** [[sources/literature|Fonte · 3 — Literatura]]
+> 📄 **Texto original (verbatim):** [[fontes/literatura|Fonte · 3 — Literatura]]
 > *Este arquivo é síntese e referências cruzadas. A fonte tem os 12 estágios completos.*
 
 ← [[index|O Mapa]]
@@ -22,7 +22,7 @@ A Jornada do Herói não é uma estrutura narrativa. É um mapa de como os human
 
 ## O Estágio 8 É o Vale da Curva-V
 
-A **Provação Suprema** — *"o momento em que tudo parece perdido para o Herói... muitos sentem que estão 'de volta à estaca zero'"* — se mapeia exatamente com [[sources/deepnesser#the-v-curve|V4–V7 na Curva-V]]:
+A **Provação Suprema** — *"o momento em que tudo parece perdido para o Herói... muitos sentem que estão 'de volta à estaca zero'"* — se mapeia exatamente com [[fontes/deepnesser#the-v-curve|V4–V7 na Curva-V]]:
 
 - Dificuldade máxima
 - Progresso visível mínimo
@@ -31,7 +31,7 @@ A **Provação Suprema** — *"o momento em que tudo parece perdido para o Heró
 
 A jornada é *projetada* para passar por isso. Não é um estado de falha. É o custo da admissão à transformação.
 
-*Ver também: [[frameworks/philosophy#simons-arc|O vale de Simon após a morte de Kamina]]*
+*Ver também: [[estruturas/filosofia#simons-arc|O vale de Simon após a morte de Kamina]]*
 
 ---
 
@@ -41,9 +41,9 @@ Não uma vez. Não linear. Uma espiral ao longo da vida:
 
 > *"Repetidas vezes, você é chamado ao reino da aventura... Cada vez, há o mesmo problema: ouso?"*
 
-Cada Jornada do Herói completa é um ciclo-V. Cada retorno com o elixir é o início do próximo V1. É por isso que [[sources/deepnesser#the-ultimate-principle|Desfecho Za]] termina com *"incompletude produtiva, até o fundo"* — completar uma jornada *inicia a próxima.*
+Cada Jornada do Herói completa é um ciclo-V. Cada retorno com o elixir é o início do próximo V1. É por isso que [[fontes/deepnesser#the-ultimate-principle|Desfecho Za]] termina com *"incompletude produtiva, até o fundo"* — completar uma jornada *inicia a próxima.*
 
-*Ver: [[frameworks/programming#spiraling-toward-center|Espiralizando em direção ao centro]]*
+*Ver: [[estruturas/programacao#spiraling-toward-center|Espiralizando em direção ao centro]]*
 
 ---
 
@@ -51,9 +51,9 @@ Cada Jornada do Herói completa é um ciclo-V. Cada retorno com o elixir é o in
 
 > *"Essas figuras divinas são, de fato, representantes simbólicos da psique inteira, a identidade maior e mais abrangente que fornece a força que o ego pessoal não tem."*
 
-O mentor não precisa ser uma pessoa. Um framework é um mentor. Um documento-fonte é um mentor. [[sources/deepnesser|Deepnesser]] é um documento mentor — fornece a estrutura que o ego não tem quando quer desistir no V3.
+O mentor não precisa ser uma pessoa. Um framework é um mentor. Um documento-fonte é um mentor. [[fontes/deepnesser|Deepnesser]] é um documento mentor — fornece a estrutura que o ego não tem quando quer desistir no V3.
 
-O papel do mentor é o [[sources/deepnesser#bootstrapping|Bootstrapping]]: o impulso mínimo para iniciar o loop autossustentável. O sucesso do mentor é tornar-se desnecessário. → [[frameworks/philosophy#kamina-bootstrapping-as-philosophy|Kamina como mentor]]
+O papel do mentor é o [[fontes/deepnesser#bootstrapping|Bootstrapping]]: o impulso mínimo para iniciar o loop autossustentável. O sucesso do mentor é tornar-se desnecessário. → [[estruturas/filosofia#kamina-bootstrapping-as-philosophy|Kamina como mentor]]
 
 ---
 
@@ -71,9 +71,9 @@ Felicidade não é preferência. É o sinal profundo por baixo da justificativa 
 
 O livro sendo escrito é o elixir. Este cofre é o elixir — algo que diz: a Provação Suprema é sobrevivível, o vale não é o fim, o V20 existe além do V3.
 
-Mas: o Retorno precede imediatamente o próximo Chamado. A Jornada do Herói é [[sources/deepnesser#the-ultimate-principle|produtivamente incompleta]] por design.
+Mas: o Retorno precede imediatamente o próximo Chamado. A Jornada do Herói é [[fontes/deepnesser#the-ultimate-principle|produtivamente incompleta]] por design.
 
 ---
 
-*→ [[sources/literature|Leia o texto original — 12 estágios completos com aplicações clínicas]]*
-*Conectado: [[frameworks/philosophy#simons-arc|O arco de Simon]] · [[frameworks/deepnesser#the-v-curve|Curva-V]] · [[alva-saga/index|Saga Alva como Jornada do Herói]]*
+*→ [[fontes/literatura|Leia o texto original — 12 estágios completos com aplicações clínicas]]*
+*Conectado: [[estruturas/filosofia#simons-arc|O arco de Simon]] · [[estruturas/deepnesser#the-v-curve|Curva-V]] · [[saga-alva/index|Saga Alva como Jornada do Herói]]*

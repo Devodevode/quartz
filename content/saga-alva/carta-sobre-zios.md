@@ -5,7 +5,7 @@ title: "Carta Sobre Zios"
 # Carta Sobre Zios
 *por Escritor Desconhecido*
 
-← [[alva-saga/chapter-2|Capítulo 2]] · [[alva-saga/letter-from-zios|Carta de Zios →]]
+← [[saga-alva/capitulo-2|Capítulo 2]] · [[saga-alva/carta-de-zios|Carta de Zios →]]
 
 ---
 
@@ -59,6 +59,6 @@ mas porque esqueceu como.
 
 ---
 
-> **Nota:** Esta carta descreve o mesmo processo que o [[frameworks/psychology#the-mausoleum-warning|Mausoléu PKM]] — um sistema que começa como ferramenta e se torna substituto. *"Em vez de acelerar meu pensamento, ele começou a substituí-lo."* A diferença é escala e agência: o ensaio sobre PKM termina com a exclusão como reconquista. Esta carta sugere que a deriva pode já estar completa demais para ser recuperada. O aviso vem antes: antes de você sentir que está perdendo, antes de parecer qualquer coisa exceto melhoria.
+> **Nota:** Esta carta descreve o mesmo processo que o [[estruturas/psicologia#the-mausoleum-warning|Mausoléu PKM]] — um sistema que começa como ferramenta e se torna substituto. *"Em vez de acelerar meu pensamento, ele começou a substituí-lo."* A diferença é escala e agência: o ensaio sobre PKM termina com a exclusão como reconquista. Esta carta sugere que a deriva pode já estar completa demais para ser recuperada. O aviso vem antes: antes de você sentir que está perdendo, antes de parecer qualquer coisa exceto melhoria.
 
-*→ [[alva-saga/letter-from-zios|Carta de Zios]]*
+*→ [[saga-alva/carta-de-zios|Carta de Zios]]*

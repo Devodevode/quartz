@@ -6,7 +6,7 @@ tags: [source]
 # Fonte · Deepness
 
 > ⚠️ **Este é o documento-fonte original — verbatim, sem modificações.**
-> Síntese e referências cruzadas estão em [[frameworks/deepness|Deepness (framework)]].
+> Síntese e referências cruzadas estão em [[estruturas/deepness|Deepness (framework)]].
 
 ---
 

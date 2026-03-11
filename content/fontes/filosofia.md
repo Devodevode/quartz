@@ -6,7 +6,7 @@ tags: [source]
 # Fonte · 1 — Filosofia (Gurren Lagann)
 
 > ⚠️ **Este é o documento-fonte original — verbatim, sem modificações.**
-> Síntese e referências cruzadas estão em [[frameworks/philosophy|filosofia (framework)]].
+> Síntese e referências cruzadas estão em [[estruturas/filosofia|filosofia (framework)]].
 
 ---
 

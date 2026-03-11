@@ -4,7 +4,7 @@ title: "Capítulo 1 — Cosmos"
 
 # Capítulo 1 — Cosmos
 
-← [[alva-saga/prologue|Prólogo]] · [[alva-saga/chapter-2|Capítulo 2 →]]
+← [[saga-alva/0-prologo|Prólogo]] · [[saga-alva/capitulo-2|Capítulo 2 →]]
 
 ---
 
@@ -38,4 +38,4 @@ As estrelas se aprofundam na névoa, como se o céu guardasse suas esperanças e
 
 > **Nota — Nuvine / Alter:** Esta é a primeira aparição delas na narrativa. Nuvine dorme; Alter vigia. O mesmo corpo, duas identidades completas. Só Alter ouve o aviso — *"Esperança é um vírus"* — sussurrado pela névoa enquanto os outros riem. Esse momento importa no Capítulo 2: a arma contra o loop é exatamente o oposto do que a névoa sussurrou aqui.
 
-*→ [[alva-saga/chapter-2|Capítulo 2 — Fim]]*
+*→ [[saga-alva/capitulo-2|Capítulo 2 — Fim]]*

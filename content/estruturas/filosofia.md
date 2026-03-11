@@ -5,7 +5,7 @@ title: Filosofia — Framework
 # Filosofia
 ### Gurren Lagann · Nietzsche · Vontade de Poder
 
-> 📄 **Texto original (verbatim):** [[sources/philosophy|Fonte · 1 — Filosofia]]
+> 📄 **Texto original (verbatim):** [[fontes/filosofia|Fonte · 1 — Filosofia]]
 > *Este arquivo é síntese e referências cruzadas. A fonte é o ensaio.*
 
 ← [[index|O Mapa]]
@@ -35,7 +35,7 @@ Toda a jornada de Simon mapeia a Curva-V:
 - **V8–V12**: *"Simon o Perfurador surge das cinzas, da chama que usou para incinerar seu antigo eu, para renascer."*
 - **V20**: Poder espiral em escala galáctica. A broca que perfura os céus.
 
-*Ver: [[frameworks/literature#stage-8-is-the-v-curve-valley|Estágio 8 da Jornada do Herói — a Provação Suprema é o vale]]*
+*Ver: [[estruturas/literatura#stage-8-is-the-v-curve-valley|Estágio 8 da Jornada do Herói — a Provação Suprema é o vale]]*
 
 > *"A vontade de poder (poder espiral) só pode vir de dentro."*
 
@@ -43,7 +43,7 @@ Toda a jornada de Simon mapeia a Curva-V:
 
 ## Kamina — Bootstrap como Filosofia
 
-A contribuição de Kamina não é instrução. É *demonstração* — mostrar a Simon que o teto pode ser rompido. Isso é [[sources/deepnesser#bootstrapping|Bootstrap]]: o impulso mínimo necessário para iniciar o loop autossustentável.
+A contribuição de Kamina não é instrução. É *demonstração* — mostrar a Simon que o teto pode ser rompido. Isso é [[fontes/deepnesser#bootstrapping|Bootstrap]]: o impulso mínimo necessário para iniciar o loop autossustentável.
 
 Kamina não ensina tudo a Simon. Dá a ele o suficiente para começar. Então morre — e Simon precisa descobrir que o espírito nunca foi externo:
 
@@ -58,7 +58,7 @@ O mentor se torna internalizado. Essa é a função real do mentor: tornar-se de
 > *"Conforto, segurança e mediocridade são os únicos objetivos dessas entidades puramente objetivas."*
 > *"Preferimos depositar nossa última confiança no nada a depositá-la em algo incerto."*
 
-Na [[alva-saga/index|Saga Alva]], **Zane** é estruturalmente essa figura. Seu argumento — *"Persistência não rompe o loop. Ela o sustenta"* — está correto sobre o mecanismo. Fazer mais do mesmo com mais força de fato sustenta um loop ruim. Mas sua conclusão (portanto, pare) está errada. A resposta não é parar; é encontrar a exploração. → [[alva-saga/chapter-2|Capítulo 2]]
+Na [[saga-alva/index|Saga Alva]], **Zane** é estruturalmente essa figura. Seu argumento — *"Persistência não rompe o loop. Ela o sustenta"* — está correto sobre o mecanismo. Fazer mais do mesmo com mais força de fato sustenta um loop ruim. Mas sua conclusão (portanto, pare) está errada. A resposta não é parar; é encontrar a exploração. → [[saga-alva/capitulo-2|Capítulo 2]]
 
 ---
 
@@ -66,10 +66,10 @@ Na [[alva-saga/index|Saga Alva]], **Zane** é estruturalmente essa figura. Seu a
 
 > *"Muitos de nós aceitamos a disposição em que nos encontramos e não pressionamos nossos limites, com medo de que o rebanho nos puna."*
 
-A [[sources/deepnesser#the-prerequisites-trap|Armadilha dos Pré-Requisitos]] em escala civilizacional. Todos abaixo da terra, esperando até estar seguros, até estar prontos, até ter permissão. O primeiro ato de Kamina é simplesmente subir. Sem plano. Sem garantia. Apenas para cima.
+A [[fontes/deepnesser#the-prerequisites-trap|Armadilha dos Pré-Requisitos]] em escala civilizacional. Todos abaixo da terra, esperando até estar seguros, até estar prontos, até ter permissão. O primeiro ato de Kamina é simplesmente subir. Sem plano. Sem garantia. Apenas para cima.
 
-*Ver também: [[frameworks/psychology#performance-over-presence|Psicologia — o mausoléu PKM como subterrâneo]]*
+*Ver também: [[estruturas/psicologia#performance-over-presence|Psicologia — o mausoléu PKM como subterrâneo]]*
 
 ---
 
-*→ [[sources/philosophy|Leia o ensaio original — análise completa de Nietzsche/Gurren Lagann]]*
+*→ [[fontes/filosofia|Leia o ensaio original — análise completa de Nietzsche/Gurren Lagann]]*

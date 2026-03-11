@@ -23,7 +23,7 @@ Seis pessoas presas em um loop temporal dentro de Zios — um mundo digital vivo
 | **Nuvine** | A protagonista. Gênio amnésica. *"A criança do grupo"* — calorosa, humana, ronca ao lado da fogueira. Sua capa prateada cobre suas partes robóticas. |
 | **Alter** | A persona fria e sempre alerta de Nuvine — mesmo corpo, segunda identidade. *"Alter não dorme. Alter nunca esquece."* |
 | **Aesu** | O artista louco. Escritor de cartas. Iniciador de tudo. Figura Kamina. |
-| **Lumi** | A hackeadora suprema. Degis de Prata, foice como uma lua crescente. Executa o que Aesu inicia. |
+| **Lumi** | A hacker suprema. Degis de Prata, foice como uma lua crescente. Executa o que Aesu inicia. |
 | **Vonor** | O detetive preguiçoso. Óculos piromaníacos, braço mecânico, sorriso sempre presente. Modo Observador tornado social. |
 | **Brinia** | A naturalista selvagem. Armadura de biometal líquido, lâmina dupla AxoNexus. A âncora emocional. *"Lealdade assim... é rara."* |
 | **Zane** | Criador de Zios. Criador do loop. O Anti-Espiral — correto sobre o mecanismo, errado sobre a conclusão. |
@@ -48,20 +48,20 @@ Juntas: a protagonista. Juntas: o núcleo de ALVA.
 
 | Elemento da saga | Conexão com o framework |
 |---|---|
-| O loop temporal | [[sources/deepnesser#local-optima-and-escape-velocity\|Ótimos Locais]] — iterações sem acumulação se tornam circulares |
-| O argumento de Zane | [[frameworks/philosophy#the-anti-spirals\|Anti-Espirais]] — mecanismo correto, valoração errada |
+| O loop temporal | [[fontes/deepnesser#local-optima-and-escape-velocity\|Ótimos Locais]] — iterações sem acumulação se tornam circulares |
+| O argumento de Zane | [[estruturas/filosofia#the-anti-spirals\|Anti-Espirais]] — mecanismo correto, valoração errada |
 | A carta como arma | Amor como informação — ilegível para um sistema de otimização pura |
-| A fusão ALVA | [[sources/deepnesser#the-three-stage-framework\|Estágio Três]] — meta-otimização; integração das partes |
-| *"Não acabou. Apenas diferente."* | [[sources/deepnesser#the-ultimate-principle\|Incompletude Produtiva]] como epílogo |
-| Carta de Zios | O vazio é o motor — [[sources/deepnesser#the-ultimate-principle\|Desfecho Za]] falado pelo próprio mundo |
+| A fusão ALVA | [[fontes/deepnesser#the-three-stage-framework\|Estágio Três]] — meta-otimização; integração das partes |
+| *"Não acabou. Apenas diferente."* | [[fontes/deepnesser#the-ultimate-principle\|Incompletude Produtiva]] como epílogo |
+| Carta de Zios | O vazio é o motor — [[fontes/deepnesser#the-ultimate-principle\|Desfecho Za]] falado pelo próprio mundo |
 
 ---
 
 ## Ordem de Leitura
 
-1. [[alva-saga/prologue|Prólogo]] — A carta de Aesu. Antes do início do loop.
-2. [[alva-saga/chapter-1|Capítulo 1 — Cosmos]] — A fogueira. Antes do fim.
-3. [[alva-saga/chapter-2|Capítulo 2 — Fim]] — O loop se rompe.
-4. [[alva-saga/letter-about-zios|Carta Sobre Zios]] — O aviso. O que Zios faz.
-5. [[alva-saga/letter-from-zios|Carta de Zios]] — O vazio. O que Zios sabe.
-6. [[alva-saga/the-epilogue|O Epílogo — Pixel Final]] — Não acabou. Apenas diferente.
+1. [[saga-alva/0-prologo|Prólogo]] — A carta de Aesu. Antes do início do loop.
+2. [[saga-alva/capitulo-1|Capítulo 1 — Cosmos]] — A fogueira. Antes do fim.
+3. [[saga-alva/capitulo-2|Capítulo 2 — Fim]] — O loop se rompe.
+4. [[saga-alva/carta-sobre-zios|Carta Sobre Zios]] — O aviso. O que Zios faz.
+5. [[saga-alva/carta-de-zios|Carta de Zios]] — O vazio. O que Zios sabe.
+6. [[saga-alva/o-epilogo|O Epílogo — Pixel Final]] — Não acabou. Apenas diferente.

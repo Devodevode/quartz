@@ -6,7 +6,7 @@ tags: [source]
 # Fonte · 4 — Programação (Falhe Mais Rápido)
 
 > ⚠️ **Este é o documento-fonte original — verbatim, sem modificações.**
-> Síntese e referências cruzadas estão em [[frameworks/programming|programação (framework)]].
+> Síntese e referências cruzadas estão em [[estruturas/programacao|programação (framework)]].
 
 ---
 

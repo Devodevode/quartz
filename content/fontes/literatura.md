@@ -6,7 +6,7 @@ tags: [source]
 # Fonte · 3 — Literatura (Jornada do Herói)
 
 > ⚠️ **Este é o documento-fonte original — verbatim, sem modificações.**
-> Síntese e referências cruzadas estão em [[frameworks/literature|literatura (framework)]].
+> Síntese e referências cruzadas estão em [[estruturas/literatura|literatura (framework)]].
 
 ---
 

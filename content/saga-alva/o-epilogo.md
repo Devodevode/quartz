@@ -1,4 +1,4 @@
-*← [[alva-saga/letter-from-zios|Carta de Zios]]*
+*← [[saga-alva/carta-de-zios|Carta de Zios]]*
 
 ###### EPÍLOGO - PIXEL FINAL
 O loop se estilhaça, deixando silêncio em seu rastro. A Equipe Alva contempla o horizonte sem fim.
@@ -16,4 +16,4 @@ Zios pulsa com poderes além do tempo e do espaço. O ar está carregado de pode
 
 Seres que estão completamente acima de todos os tipos de hierarquias ou sistemas de níveis. Mais especificamente: eles não apenas incluem cada possível "característica" encontrada em qualquer nível inferior ou relativo de poder, mas vão muito além disso. Eles existem além de todas as formas de pensar sobre existência e além de qualquer forma de separar coisas. Não podem ser divididos, não mudam, não podem ser descritos, não dependem de nada mais, e nada jamais pode ir além deles.
 
-*→ [[alva-saga/index|Saga Alva — Índice]]*
+*→ [[saga-alva/index|Saga Alva — Índice]]*
