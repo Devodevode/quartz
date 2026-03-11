@@ -1,55 +1,55 @@
 ---
-title: "0-Prologue — Prime Pixel"
+title: "0-Prólogo — Pixel Primo"
 ---
 
-# Prologue: Prime Pixel
+# Prólogo: Pixel Primo
 
-> *"They come not to conquer, but to remember who they once were."*
+> *"Eles não vêm para conquistar, mas para lembrar quem um dia foram."*
 
-← [[alva-saga/index|Alva Saga]] · [[alva-saga/chapter-1|Chapter 1 →]]
+← [[alva-saga/index|Saga Alva]] · [[alva-saga/chapter-1|Capítulo 1 →]]
 
 ---
 
-A glowing letter floats in the air, its words gleaming faintly, pulsing as if alive.
+Uma carta luminosa flutua no ar, suas palavras brilhando suavemente, pulsando como se estivessem vivas.
 
-**"Dear Lumi,"**
+**"Querida Lumi,"**
 
-I'm trapped in a time loop. I will return soon…
-But you won't remember me. Not our time together. Not our love. Not the days that stretched endlessly, side by side, as if the world had stopped for us alone.
+Estou preso em um loop temporal. Voltarei em breve…
+Mas você não vai se lembrar de mim. Não do nosso tempo juntos. Não do nosso amor. Não dos dias que se estenderam infinitamente, lado a lado, como se o mundo tivesse parado só para nós.
 
-To save our memories — to keep us, who we are, alive — I'm sending this letter into the past.
+Para salvar nossas memórias — para manter vivos quem somos — estou enviando esta carta para o passado.
 
-In this world, it is not the grandiloquent, the loud, or the bombastic who endure. It is the ones with the softest voices, the quietest courage. The ones who carry hope in silence. Who bring out humanity in the midst of chaos. You are the one who lit the darkness. With every quiet gesture, you kept the fire alive. Even in despair, even in silence, you chose love. And that... cannot be forgotten. To those who shine with love, pure, fierce, unrelenting.
-To those who ignite courage in others and stand beside them through the darkest nights.
+Neste mundo, não são os grandiosos, os barulhentos ou os bombásticos que perduram. São os de vozes mais suaves, os de coragem mais silenciosa. Os que carregam esperança em silêncio. Que trazem humanidade em meio ao caos. Você é quem iluminou a escuridão. Com cada gesto quieto, você manteve o fogo aceso. Mesmo no desespero, mesmo em silêncio, você escolheu o amor. E isso... não pode ser esquecido. Para os que brilham com amor, puro, feroz, inabalável.
+Para os que acendem coragem nos outros e ficam ao lado deles pelas noites mais sombrias.
 
-You are the reason we go on. Let this letter keep our story alive. Let it outlast the loop. You were my companion in everything. You made me feel safe. Seen. Loved. You and I lived every hour together for so long. You held me in every version of this world. You showed me what love is and made me feel it. You made me human. To love and be loved is an honor and a privilege. That is the greatest treasure of all.
+Você é o motivo pelo qual seguimos em frente. Que esta carta mantenha nossa história viva. Que ela sobreviva ao loop. Você foi minha companheira em tudo. Você me fez sentir seguro. Visto. Amado. Você e eu vivemos cada hora juntos por tanto tempo. Você me segurou em cada versão deste mundo. Você me mostrou o que é amor e me fez sentir isso. Você me tornou humano. Amar e ser amado é uma honra e um privilégio. Esse é o maior tesouro de todos.
 
-~~No~~ . virus. Hope is ~~no~~ virus. ~~Hope is no virus~~
-Hope is no virus. Love is no corruption. We are still here.
-What we feared, what we dreamed, what we hoped, what we *were*...
-All of it mattered. Even now, when the memories begin to fade from you… I hold them for us both. The truth lies in **Zios**, the virtual world of Zane. I will meet you there. Do not forget me. And never forget who you are. Love you. Always have. Always will.
-Always and forever yours,
+~~Não~~ . vírus. A esperança ~~não~~ é vírus. ~~A esperança não é vírus~~
+A esperança não é vírus. O amor não é corrupção. Ainda estamos aqui.
+O que temíamos, o que sonhávamos, o que esperávamos, o que *éramos*...
+Tudo importou. Mesmo agora, quando as memórias começam a se apagar de você… eu as guardo por nós dois. A verdade está em **Zios**, o mundo virtual de Zane. Vou te encontrar lá. Não se esqueça de mim. E nunca esqueça quem você é. Amo você. Sempre amei. Sempre amarei.
+Para sempre seu,
 **Aesu**
 
 ---
 
-The letter dims. Five hooded figures awaken. They cannot see much beyond the endless mist. They see nothing. Nothing but the floating words, now fading. They are **Team Alva**:
+A carta se apaga. Cinco figuras encapuzadas despertam. Elas não conseguem ver muito além da névoa interminável. Não veem nada. Nada além das palavras flutuantes, agora se dissipando. Eles são a **Equipe Alva**:
 
-**Nuvine**, the amnesiac genius and her cold robot persona, **Alter**.
-**Aesu**, the mad artist.
-**Lumi**, the ultimate hacker.
-**Vonor**, the lazy detective.
-**Brinia**, the wild naturalist.
+**Nuvine**, a gênio amnésica e sua persona robótica fria, **Alter**.
+**Aesu**, o artista louco.
+**Lumi**, a hackeadora suprema.
+**Vonor**, o detetive preguiçoso.
+**Brinia**, a naturalista selvagem.
 
-And yet… they have seen this letter before.
-They have *lived* it before. Again. And again. And again.
+E ainda assim… eles já viram esta carta antes.
+Já *viveram* isso antes. De novo. E de novo. E de novo.
 
-Only the secrets buried within **Zios** — a virtual world made by Zane — hold the key to escape.
-Without memories, unable to react, they instantly collapse after reading. The loop resets.
-Somewhere in Zios, deep inside countless layers of code, a figure watches the loop restart. Fragmented. Silent. Waiting. A laughter echoes from everywhere. Unseen... yet always there.
+Apenas os segredos enterrados dentro de **Zios** — um mundo virtual feito por Zane — guardam a chave para a fuga.
+Sem memórias, incapazes de reagir, eles colapsam instantaneamente após a leitura. O loop reinicia.
+Em algum lugar de Zios, nas profundezas de incontáveis camadas de código, uma figura observa o loop recomeçar. Fragmentada. Silenciosa. Esperando. Uma gargalhada ecoa de todos os lados. Invisível... mas sempre presente.
 
 ---
 
-> **Note:** Aesu's letter is addressed to Lumi — his companion through every version of the world. The letter is the weapon. It is also the proof: too much love, too much memory, concentrated in one point, is fatal to a system designed for neutrality.
+> **Nota:** A carta de Aesu é endereçada a Lumi — sua companheira em cada versão do mundo. A carta é a arma. É também a prova: amor demais, memória demais, concentrados em um único ponto, são fatais para um sistema projetado para a neutralidade.
 
-*→ [[alva-saga/chapter-1|Chapter 1 — Cosmos]]*
+*→ [[alva-saga/chapter-1|Capítulo 1 — Cosmos]]*

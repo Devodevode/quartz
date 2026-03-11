@@ -1,41 +1,41 @@
 ---
-title: "Chapter 1 — Cosmos"
+title: "Capítulo 1 — Cosmos"
 ---
 
-# Chapter 1 — Cosmos
+# Capítulo 1 — Cosmos
 
-← [[alva-saga/prologue|Prologue]] · [[alva-saga/chapter-2|Chapter 2 →]]
-
----
-
-Under the endless starry sky, light spills into the clearing.
-
-The fire crackles; soft, smooth. Golden light shines across the trees, their towering shadows stand watch like guardians. The scent of burning wood and earth spreads, as the rustle of leaves whisper secrets only the forest remembers. The hooded group rests. Aesu sits cross-legged by the fire, his sword resting beside him, blade aglow with flickering reflections. His spiked black hair and the mask of his Degis — the eerie, elegant technology of his biometal suit — sparkles faintly. Usually in chaos, his gaze now burns low, lost in the fire. Beside him, Lumi leans in, her Degis shines in a silver cloak. Under the mask, wide eyes glow white. Her scythe lies close at hand, glinting like a metallic crescent moon. Vonor crouches by the fire with his ever-present grin, his pyromaniac glasses gleaming as he recounts their latest misadventure. His brown hair spills over a sharp gaze, his long black coat rustling as his mechanical arm adjusts the coals with uncanny grace. His tools glitter across his belt like trophies. Tonight, his voice carries an unfamiliar nostalgia.
-
-"Remember that time in the future," he says, "when Aesu accidentally exploded that living dimension? The look on its face. Priceless!"
-
-Aesu chuckles, his grin breaking through the mask's shadows.
-"Yeah, they got some funny faces for a dimension," he murmurs.
-
-Lumi's laughter and wheeze follow, faint as the creak of an old door opening.
-
-"And that AI mad scientist! I was sure we were done for!"
-
-A little apart, Brinia sits in silence. Her liquid biometal armor ripples with the fire's glow, green and alien. Her dual blade, AxoNexus, stands like a totem beside her. Eyes fixed on the flames, she seems lost; not in sorrow, but in memory.
-
-"Aye," she says at last, voice low and gravel-toned, "every trial we endure binds us closer. Loyalty like this... it's rare." Lumi nods gently. "We've been through so much. It's nights like this that remind me why we keep going."
-
-Vonor looks sideways at Brinia, raising a brow. Then with mock solemnity, he lifts his Atlas and thwacks her gently on the head. "Why so grim, brat? That's not like you at all."
-Brinia yelps. "Oww! Okay, okay! Sorry! I was just in the mood, you know?"
-
-Everyone laughs. Warm, unguarded, real. The firelight sparks over their faces in beams of gold. The air hums with the crackle of embers and distant howls from unseen creatures. For a glowing moment, the world outside fades. Only they exist.
-
-**Nuvine**, the kid of the group, snores by the fire, dead to the world. Her silver cloak veils her robotic parts, the eyes are moved by her cold, ever-alert persona, **Alter**. As the others laugh, Alter gazes at the night sky. For a moment, it freezes. A voice stutters through the mist. *"Hope is a virus,"* it whispers. Then nothing. No one else seems to notice. But Alter does not sleep. Alter never forgets.
-
-The stars arc deeper into the mist, as if the sky holds their hopes and fears, their dreams and doubts. And through it all, the fire burns as if endless, just like the bond between them. A flame not even time itself can extinguish. The fire of everything they survive, everything they are.
+← [[alva-saga/prologue|Prólogo]] · [[alva-saga/chapter-2|Capítulo 2 →]]
 
 ---
 
-> **Note — Nuvine / Alter:** This is their first appearance in the narrative. Nuvine sleeps; Alter watches. The same body, two complete identities. Alter alone hears the warning — *"Hope is a virus"* — whispered through the mist while the others laugh. This moment matters in Chapter 2: the weapon against the loop is the exact opposite of what the mist whispered here.
+Sob o céu estrelado e infinito, a luz derrama sobre a clareira.
 
-*→ [[alva-saga/chapter-2|Chapter 2 — End]]*
+A fogueira crepita; suave, serena. Uma luz dourada brilha sobre as árvores, cujas sombras altaneiras montam guarda como sentinelas. O cheiro de madeira queimando e terra se espalha, enquanto o farfalhar das folhas sussurra segredos que só a floresta recorda. O grupo encapuzado descansa. Aesu senta com as pernas cruzadas ao lado da fogueira, sua espada repousando ao lado dele, a lâmina brilhando com reflexos cintilantes. Seu cabelo preto eriçado e a máscara de seu Degis — a tecnologia estranha e elegante de seu traje de biometal — faísca suavemente. Geralmente em caos, seu olhar agora queima baixo, perdido nas chamas. Ao lado dele, Lumi se inclina para frente, seu Degis brilha em uma capa prateada. Por baixo da máscara, olhos arregalados brilham em branco. Sua foice está à mão, reluzindo como uma lua crescente metálica. Vonor se agacha ao lado da fogueira com seu sorriso sempre presente, seus óculos piromaníacos faiscando enquanto reconta suas últimas aventuras. Seu cabelo castanho cai sobre um olhar afiado, seu longo casaco preto farfalhando enquanto seu braço mecânico ajusta as brasas com graça incomum. Suas ferramentas faíscam em seu cinto como troféus. Esta noite, sua voz carrega uma nostalgia incomum.
+
+"Lembra daquela vez no futuro," ele diz, "quando Aesu acidentalmente explodiu aquela dimensão viva? A cara que ela fez. Não tem preço!"
+
+Aesu ri, seu sorriso rompendo as sombras da máscara.
+"É, elas fazem umas caras engraçadas pra ser uma dimensão," ele murmura.
+
+A risada e o soluço de Lumi se seguem, tênues como o rangido de uma velha porta se abrindo.
+
+"E aquele cientista louco de IA! Tinha certeza que estávamos acabados!"
+
+Um pouco afastada, Brinia senta em silêncio. Sua armadura de biometal líquido ondula com o brilho da fogueira, verde e alienígena. Sua lâmina dupla, AxoNexus, está ao lado dela como um totem. Olhos fixos nas chamas, ela parece perdida; não na tristeza, mas na memória.
+
+"Aye," ela diz por fim, com voz baixa e áspera, "cada provação que enfrentamos nos une mais. Lealdade assim... é rara." Lumi acena gentilmente com a cabeça. "Passamos por tanto. São noites como esta que me lembram por que continuamos."
+
+Vonor olha de soslaio para Brinia, erguendo uma sobrancelha. Então, com solene fingimento, levanta seu Atlas e dá um tapinha suave na cabeça dela. "Por que tão sombria, garota? Isso não é nada a ver com você."
+Brinia grita. "Ai! Tá bom, tá bom! Desculpa! Só tava com vontade de ser assim, sabe?"
+
+Todos riem. Caloroso, sem guardar, real. A luz da fogueira faísca sobre seus rostos em feixes dourados. O ar pulsa com o estalar das brasas e uivos distantes de criaturas invisíveis. Por um momento luminoso, o mundo lá fora se apaga. Só eles existem.
+
+**Nuvine**, a criança do grupo, ronca ao lado da fogueira, alheia ao mundo. Sua capa prateada cobre suas partes robóticas, os olhos movidos por sua persona fria e sempre alerta, **Alter**. Enquanto os outros riem, Alter contempla o céu noturno. Por um momento, congela. Uma voz gagueja pela névoa. *"Esperança é um vírus,"* sussurra. Depois nada. Ninguém mais parece notar. Mas Alter não dorme. Alter nunca esquece.
+
+As estrelas se aprofundam na névoa, como se o céu guardasse suas esperanças e medos, seus sonhos e dúvidas. E por tudo isso, a fogueira queima como se fosse eterna, assim como o vínculo entre eles. Uma chama que nem o próprio tempo consegue apagar. O fogo de tudo que sobrevivem, de tudo que são.
+
+---
+
+> **Nota — Nuvine / Alter:** Esta é a primeira aparição delas na narrativa. Nuvine dorme; Alter vigia. O mesmo corpo, duas identidades completas. Só Alter ouve o aviso — *"Esperança é um vírus"* — sussurrado pela névoa enquanto os outros riem. Esse momento importa no Capítulo 2: a arma contra o loop é exatamente o oposto do que a névoa sussurrou aqui.
+
+*→ [[alva-saga/chapter-2|Capítulo 2 — Fim]]*

@@ -1,19 +1,19 @@
-*← [[alva-saga/letter-from-zios|Letter from Zios]]*
+*← [[alva-saga/letter-from-zios|Carta de Zios]]*
 
-###### EPILOGUE - FINAL PIXEL
-The loop shatters, leaving silence in its wake. Team Alva stares at the endless horizon.
-Nuvine sighs, “Do you think it’s over?” 
-Alter smiles faintly, “Not over. Just different.”
-As the saga ends, a new chapter begins. Aesu writes it all on a letter, and sends it to Zios.
-Zios pulses with powers beyond time and space. The air is heavy with sheer, pure power. Existence around them seems to bend and warp. Zios flows through them. It feels like floating in the void, from the origin of everything to the collapse of stars. Team Alva has seen the creation of existence, and the death of it all, and they cannot tell the difference.
+###### EPÍLOGO - PIXEL FINAL
+O loop se estilhaça, deixando silêncio em seu rastro. A Equipe Alva contempla o horizonte sem fim.
+Nuvine suspira, "Você acha que acabou?"
+Alter sorri levemente, "Não acabou. Apenas diferente."
+Com o fim da saga, um novo capítulo começa. Aesu escreve tudo em uma carta e a envia para Zios.
+Zios pulsa com poderes além do tempo e do espaço. O ar está carregado de poder puro e absoluto. A existência ao redor deles parece dobrar e se distorcer. Zios flui por eles. É como flutuar no vazio, da origem de tudo ao colapso das estrelas. A Equipe Alva viu a criação da existência, e a morte de tudo, e não consegue distinguir uma da outra.
 
 
 ---
 
-`Scan of Team Alva:`
+`Scan da Equipe Alva:`
 
-**Tier 0 (Boundless):**
+**Nível 0 (Ilimitado):**
 
-Beings that are completely above all types of hierarchies or systems of levels. More specifically: They don't just include every possible "trait" found in any lower or relative power level, but go far beyond even that. They exist beyond all ways of thinking about existence and beyond any way of separating things. They can't be divided, don't change, can't be described, don't rely on anything else, and nothing can ever go beyond them.
+Seres que estão completamente acima de todos os tipos de hierarquias ou sistemas de níveis. Mais especificamente: eles não apenas incluem cada possível "característica" encontrada em qualquer nível inferior ou relativo de poder, mas vão muito além disso. Eles existem além de todas as formas de pensar sobre existência e além de qualquer forma de separar coisas. Não podem ser divididos, não mudam, não podem ser descritos, não dependem de nada mais, e nada jamais pode ir além deles.
 
-*→ [[alva-saga/index|Alva Saga — Index]]*
+*→ [[alva-saga/index|Saga Alva — Índice]]*

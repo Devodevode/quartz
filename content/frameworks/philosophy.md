@@ -1,75 +1,75 @@
 ---
-title: Philosophy — Framework
+title: Filosofia — Framework
 ---
 
-# Philosophy
-### Gurren Lagann · Nietzsche · Will to Power
+# Filosofia
+### Gurren Lagann · Nietzsche · Vontade de Poder
 
-> 📄 **Original text (verbatim):** [[sources/philosophy|Source · 1 — Philosophy]]
-> *This file is synthesis and cross-links. The source is the essay.*
+> 📄 **Texto original (verbatim):** [[sources/philosophy|Fonte · 1 — Filosofia]]
+> *Este arquivo é síntese e referências cruzadas. A fonte é o ensaio.*
 
-← [[index|The Map]]
+← [[index|O Mapa]]
 
 ---
 
-## The Three Paths After Nihilism
+## Os Três Caminhos Após o Niilismo
 
-When the old world collapses — God dies, the authority falls, the ceiling breaks — three responses:
+Quando o velho mundo desmorona — Deus morre, a autoridade cai, o teto se rompe — três respostas:
 
-| Path | Character | Deepnesser parallel |
+| Caminho | Personagem | Paralelo no Deepnesser |
 |---|---|---|
-| **Nihilism** — accept that nothing matters | Simon after Kamina's death | Stopping at V3 permanently |
-| **Replace God with the State** | Rossiu's government | False success indicators; outsourcing meaning to a system |
-| **Will to Power** — write your own value system | Kamina → Simon | V20; the drill that pierces the heavens |
+| **Niilismo** — aceitar que nada importa | Simon após a morte de Kamina | Parar no V3 permanentemente |
+| **Substituir Deus pelo Estado** | O governo de Rossiu | Indicadores falsos de sucesso; terceirizar o significado para um sistema |
+| **Vontade de Poder** — escrever seu próprio sistema de valores | Kamina → Simon | V20; a broca que perfura os céus |
 
-The Anti-Spirals are Path 1 enforced on others — not just embracing stagnation but imposing it as universal law.
-
----
-
-## Simon's Arc — the V-Curve Applied
-
-Simon's entire journey maps the V-Curve:
-
-- **V1–V3**: Simon dependent on Kamina. Rapid early gains. False confidence.
-- **V4–V7 (valley)**: Kamina dies. Nihilism, paralysis, maximum temptation to quit.
-- **V8–V12**: *"Simon the Digger rises from the ashes, from the flame that he used to incinerate his old self, to be born anew."*
-- **V20**: Galaxy-scale spiral power. The drill that pierces the heavens.
-
-*See: [[frameworks/literature#stage-8-is-the-v-curve-valley|Hero's Journey Stage 8 — the Supreme Ordeal is the valley]]*
-
-> *"The will to power (spiral power) can only come from within."*
+Os Anti-Espirais são o Caminho 1 imposto aos outros — não apenas abraçar a estagnação, mas impô-la como lei universal.
 
 ---
 
-## Kamina — Bootstrapping as Philosophy
+## O Arco de Simon — A Curva-V Aplicada
 
-Kamina's contribution is not instruction. It is *demonstration* — showing Simon the ceiling can be broken. This is [[sources/deepnesser#bootstrapping|Bootstrapping]]: the minimum push needed to start the self-sustaining loop.
+Toda a jornada de Simon mapeia a Curva-V:
 
-Kamina doesn't teach Simon everything. He gives Simon enough to begin. Then he dies — and Simon must discover that the spirit was never external:
+- **V1–V3**: Simon dependente de Kamina. Ganhos rápidos iniciais. Falsa confiança.
+- **V4–V7 (vale)**: Kamina morre. Niilismo, paralisia, máxima tentação de desistir.
+- **V8–V12**: *"Simon o Perfurador surge das cinzas, da chama que usou para incinerar seu antigo eu, para renascer."*
+- **V20**: Poder espiral em escala galáctica. A broca que perfura os céus.
 
-> *"Simon carries the spirit of his big bro with him, but it is not some transcendental entity or magical power — it is, in fact, courage."*
+*Ver: [[frameworks/literature#stage-8-is-the-v-curve-valley|Estágio 8 da Jornada do Herói — a Provação Suprema é o vale]]*
 
-The mentor becomes internalized. This is the mentor's actual function: to become unnecessary.
-
----
-
-## The Anti-Spirals — Zane in Mecha Form
-
-> *"Comfort, security, and mediocrity are the only aims of these purely objective entities."*
-> *"We prefer to put our last trust in nothingness rather than in an uncertain something."*
-
-In the [[alva-saga/index|Alva Saga]], **Zane** is structurally this figure. His argument — *"Persistence doesn't break the loop. It sustains it"* — is correct about the mechanism. Doing more of the same harder does sustain a bad loop. But his conclusion (therefore stop) is wrong. The answer is not to stop; it is to find the exploit. → [[alva-saga/chapter-2|Chapter 2]]
+> *"A vontade de poder (poder espiral) só pode vir de dentro."*
 
 ---
 
-## The Underground
+## Kamina — Bootstrap como Filosofia
 
-> *"Many of us accept the disposition we are in and don't press upon our boundaries whatsoever, in fear that the herd may punish us."*
+A contribuição de Kamina não é instrução. É *demonstração* — mostrar a Simon que o teto pode ser rompido. Isso é [[sources/deepnesser#bootstrapping|Bootstrap]]: o impulso mínimo necessário para iniciar o loop autossustentável.
 
-Civilizational-scale [[sources/deepnesser#the-prerequisites-trap|Prerequisites Trap]]. Everyone below ground, waiting until safe, until ready, until permitted. Kamina's first act is simply to go up. No plan. No guarantee. Just up.
+Kamina não ensina tudo a Simon. Dá a ele o suficiente para começar. Então morre — e Simon precisa descobrir que o espírito nunca foi externo:
 
-*See also: [[frameworks/psychology#performance-over-presence|Psychology — the PKM mausoleum as underground]]*
+> *"Simon carrega o espírito de seu irmão mais velho consigo, mas não é uma entidade transcendental ou poder mágico — é, de fato, coragem."*
+
+O mentor se torna internalizado. Essa é a função real do mentor: tornar-se desnecessário.
 
 ---
 
-*→ [[sources/philosophy|Read the original essay — full Nietzsche/Gurren Lagann analysis]]*
+## Os Anti-Espirais — Zane em Forma de Mecha
+
+> *"Conforto, segurança e mediocridade são os únicos objetivos dessas entidades puramente objetivas."*
+> *"Preferimos depositar nossa última confiança no nada a depositá-la em algo incerto."*
+
+Na [[alva-saga/index|Saga Alva]], **Zane** é estruturalmente essa figura. Seu argumento — *"Persistência não rompe o loop. Ela o sustenta"* — está correto sobre o mecanismo. Fazer mais do mesmo com mais força de fato sustenta um loop ruim. Mas sua conclusão (portanto, pare) está errada. A resposta não é parar; é encontrar a exploração. → [[alva-saga/chapter-2|Capítulo 2]]
+
+---
+
+## O Subterrâneo
+
+> *"Muitos de nós aceitamos a disposição em que nos encontramos e não pressionamos nossos limites, com medo de que o rebanho nos puna."*
+
+A [[sources/deepnesser#the-prerequisites-trap|Armadilha dos Pré-Requisitos]] em escala civilizacional. Todos abaixo da terra, esperando até estar seguros, até estar prontos, até ter permissão. O primeiro ato de Kamina é simplesmente subir. Sem plano. Sem garantia. Apenas para cima.
+
+*Ver também: [[frameworks/psychology#performance-over-presence|Psicologia — o mausoléu PKM como subterrâneo]]*
+
+---
+
+*→ [[sources/philosophy|Leia o ensaio original — análise completa de Nietzsche/Gurren Lagann]]*

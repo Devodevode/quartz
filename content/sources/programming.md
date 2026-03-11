@@ -1,85 +1,85 @@
 ---
-title: "Source · 4 — Programming (Fail Faster)"
+title: "Fonte · 4 — Programação (Falhe Mais Rápido)"
 tags: [source]
 ---
 
-# Source · 4 — Programming (Fail Faster)
+# Fonte · 4 — Programação (Falhe Mais Rápido)
 
-> ⚠️ **This is the original source document — verbatim, unmodified.**
-> Synthesis and cross-links live in [[frameworks/programming|programming (framework)]].
-
----
-
-4 - Trying - Solving - Programming
-# Fail Faster: The Designer's Mantra
+> ⚠️ **Este é o documento-fonte original — verbatim, sem modificações.**
+> Síntese e referências cruzadas estão em [[frameworks/programming|programação (framework)]].
 
 ---
 
-For a long time, James just assumed this was the first lesson all designers learned and that it would be kind of redundant to do a whole show about it. Not so, apparently. He's recently observed professional designers waste millions of dollars, seen students cheated out of the education they should have and graduating with no hope of getting a job in this industry, and watched people trying to make games for the greatest good falter—all because they didn't learn the one most basic lesson of design: **fail faster**.
+4 - Tentar - Resolver - Programar
+# Falhe Mais Rápido: O Mantra do Designer
 
-## The Designer's Credo
+---
 
-This is the designer's credo. It is our mantra. It is our goal with every waking second of every day: **fail faster**.
+Por muito tempo, James simplesmente assumiu que esta era a primeira lição que todos os designers aprendiam e que seria meio redundante fazer um show inteiro sobre isso. Aparentemente, não é. Recentemente, ele observou designers profissionais desperdiçarem milhões de dólares, viu estudantes sendo defraudados da educação que deveriam ter e se formando sem esperança de conseguir emprego nessa indústria, e assistiu pessoas tentando fazer jogos pelo bem maior falhar — tudo porque não aprenderam a lição mais básica do design: **falhe mais rápido**.
 
-No idea is made fully formed. No game you design will ever be right on the first pass. The art of what we do is simply spiraling towards a better center, course-correcting along the way.
+## O Credo do Designer
 
-Fail faster because without testing and without exposing your thoughts to others and embracing how many horrible mistakes and egregious failures you made in your last pass, you will never create a good game.
+Este é o credo do designer. É o nosso mantra. É o nosso objetivo a cada segundo de cada dia: **falhe mais rápido**.
 
-## Understanding That Ideas Start Terrible
+Nenhuma ideia nasce totalmente formada. Nenhum jogo que você projete será correto na primeira tentativa. A arte do que fazemos é simplesmente espiralar em direção a um centro melhor, corrigindo o rumo ao longo do caminho.
 
-Fail faster by understanding that no idea is good. By understanding that the high-level idea for Mario is "a plumber on drugs," that the concept behind Sonic is "an indigo hedgehog in sneakers that can run really fast," and that the pitch line for Gears of War is "linebackers with chainsaw guns"—these ideas are all terrible, and they're all great. As mere ideas, they're meaningless.
+Falhe mais rápido porque sem testar e sem expor seus pensamentos aos outros e abraçar quantos erros horríveis e falhas gritantes você cometeu em sua última tentativa, você nunca criará um bom jogo.
 
-Choose something. Anything. Begin to iterate and fail faster.
+## Entendendo que as Ideias Começam Terríveis
 
-Any plan is better than no plan because even though your plan is inevitably full of miserable misconceptions that'll lead you headlong into problems, as you go to and fro from there, you can start to correct your course towards what's really right.
+Falhe mais rápido entendendo que nenhuma ideia é boa. Entendendo que a ideia de alto nível para Mario é "um encanador drogado", que o conceito por trás do Sonic é "um ouriço índigo usando tênis que pode correr muito rápido", e que o pitch de Gears of War é "zagueiros com metralhadoras de motosserra" — essas ideias são todas terríveis, e todas ótimas. Como meras ideias, são insignificantes.
 
-## Don't Wait for the Perfect Idea
+Escolha algo. Qualquer coisa. Comece a iterar e falhe mais rápido.
 
-Too many times, James has seen teams spin their wheels debating concepts and high-level ideas, starting to work only once they felt they had the best possible idea. But that "perfect" idea of theirs was as human and as flawed and as fundamentally broken as all of our ideas. And now they'd spent so much time dreaming up that perfect idea that they had no time left to iterate on it.
+Qualquer plano é melhor do que nenhum plano, porque mesmo que seu plano esteja inevitavelmente cheio de concepções equivocadas miseráveis que te levarão de cabeça para os problemas, ao ir e vir por aí, você pode começar a corrigir seu rumo em direção ao que é realmente certo.
 
-Now those perfect ideas are relegated to bargain bins or lingering on one of those unseen projects that never shipped because they were unable to mill out all the flaws. Meanwhile, ideas like "hey, let's throw birds at pigs" makes a billion dollars, and "let's put a child into a zombie apocalypse" moves us to tears.
+## Não Espere pela Ideia Perfeita
 
-## Start Failing Before You Have Code
+Muitas vezes, James viu equipes girando suas rodas debatendo conceitos e ideias de alto nível, começando a trabalhar somente quando sentiam que tinham a melhor ideia possível. Mas aquela "ideia perfeita" deles era tão humana, tão falha e tão fundamentalmente quebrada quanto todas as nossas ideias. E agora eles tinham gastado tanto tempo sonhando com aquela ideia perfeita que não tinham mais tempo para iterá-la.
 
-So fail faster. You don't even need to have something playable to fail. It doesn't have to be fully baked. You don't even need more than words on a page.
+Agora essas ideias perfeitas estão relegadas às prateleiras de liquidação ou permanecendo em um daqueles projetos invisíveis que nunca foram lançados porque foram incapazes de eliminar todas as falhas. Enquanto isso, ideias como "ei, vamos jogar pássaros em porcos" fazem um bilhão de dólares, e "vamos colocar uma criança em um apocalipse zumbi" nos move às lágrimas.
 
-Start with that first broad pass on what this game will be, then hand it off. Tell people, "Hey, I'm vetting this for a friend of mine, and I don't think it's very good, but I was hoping to get a second opinion"—just so no one's afraid to be brutally honest with you.
+## Comece a Falhar Antes de Ter Código
 
-Let them redline that thing and mark it all up. Let them just tear it apart bit by bit. Accept the truths that you might be too close to see. This is how a game goes from sucking to sucking less, to being kind of okay I guess, to being pretty good, to finally becoming great.
+Então falhe mais rápido. Você nem precisa ter algo jogável para falhar. Não precisa estar totalmente desenvolvido. Você não precisa de mais do que palavras numa página.
 
-### Practical Steps to Fail Faster
+Comece com aquela primeira passagem ampla sobre o que será esse jogo, depois passe adiante. Diga às pessoas: "Ei, estou verificando isso para um amigo meu, e não acho que seja muito bom, mas estava esperando obter uma segunda opinião" — apenas para que ninguém tenha medo de ser brutalmente honesto com você.
 
-**Fail before you even have a line of code:**
+Deixe-os marcar aquilo todo e rasurar. Deixe-os apenas desmembrá-lo pouco a pouco. Aceite as verdades que você pode estar perto demais para ver. É assim que um jogo vai de péssimo para menos péssimo, para mais ou menos ok eu acho, para bem bom, para finalmente se tornar ótimo.
 
-- Mock up the mechanics on paper
-- Try to play it with others as quickly as you can
-- Get your concept art in front of a dozen eyes
-- Try 20 different styles and themes
-- Close your eyes and put yourself in the shoes of the player
-- Imagine yourself playing the game down to the button presses you'll make and watch where it goes wrong
+### Passos Práticos para Falhar Mais Rápido
 
-**Fail faster—get a prototype up as soon as is humanly possible:**
+**Falhe antes mesmo de ter uma linha de código:**
 
-- It doesn't need art
-- It doesn't need to impress
-- It needs to be as raw and as open as it can be so you can understand it without being distracted by all the bells and whistles
+- Simule a mecânica no papel
+- Tente jogar com outros o mais rápido possível
+- Coloque sua arte conceitual diante de uma dúzia de olhos
+- Experimente 20 estilos e temas diferentes
+- Feche os olhos e se coloque no lugar do jogador
+- Imagine-se jogando o jogo até os botões que você pressionará e observe onde dá errado
 
-**Play it:**
+**Falhe mais rápido — levante um protótipo o mais rápido humanamente possível:**
 
-- Just play it into the ground
-- Let everyone else play it
-- You will learn and you will correct, and you'll do so before it costs you greatly
+- Não precisa de arte
+- Não precisa impressionar
+- Precisa ser tão cru e aberto quanto possível para que você possa entendê-lo sem ser distraído por todos os sinos e assobios
 
-Because the later you fail, the more expensive your failures will be to correct, and so the less likely you'll be to correct them.
+**Jogue:**
 
-## The Core Truth
+- Apenas jogue até o limite
+- Deixe todo mundo jogar
+- Você aprenderá e corrigirá, e o fará antes que custe caro
 
-So fail faster.
+Porque quanto mais tarde você falhar, mais caros serão seus fracassos para corrigir, e portanto menos provável que você os corrija.
 
-Your ideas can't be precious. Your ego can't need protecting. You have to understand that the only thing that matters is the game you ship, not any of the steps along the way.
+## A Verdade Central
 
-Every failure is an opportunity for betterment. Every failure is another chance to get it right.
+Então falhe mais rápido.
 
-Don't give these away out of fear or shyness.
+Suas ideias não podem ser preciosas. Seu ego não pode precisar de proteção. Você precisa entender que a única coisa que importa é o jogo que você lança, não nenhum dos passos ao longo do caminho.
 
-**Fail faster, because failing is how we get it right.**
+Cada fracasso é uma oportunidade de melhoria. Cada fracasso é mais uma chance de acertar.
+
+Não desperdice esses momentos por medo ou timidez.
+
+**Falhe mais rápido, porque falhar é como acertamos.**

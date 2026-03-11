@@ -1,72 +1,72 @@
 ---
-title: The Map
+title: O Mapa
 ---
 
-# The Map
+# O Mapa
 
-> *"In the end, it was never about finding the answer, but becoming the question."*
-> — [[alva-saga/letter-from-zios|Letter from Zios]]
+> *"No fim, nunca se tratou de encontrar a resposta, mas de tornar-se a pergunta."*
+> — [[alva-saga/letter-from-zios|Carta de Zios]]
 
 ---
 
-## How This Vault Is Structured
+## Como Este Cofre Está Estruturado
 
-| Layer | Folder | What it is |
+| Camada | Pasta | O que é |
 |---|---|---|
-| **Sources** | `sources/` | Original texts — verbatim, unmodified |
-| **Frameworks** | `frameworks/` | Synthesis, cross-links, commentary built on the sources |
-| **Fiction** | `alva-saga/` | The saga — original text + structural notes |
+| **Fontes** | `sources/` | Textos originais — verbatim, sem modificações |
+| **Frameworks** | `frameworks/` | Síntese, referências cruzadas e comentários construídos sobre as fontes |
+| **Ficção** | `alva-saga/` | A saga — texto original + notas estruturais |
 
-**The sources are the ground. The frameworks are what grows from them.**
-If a framework says something, go to the source to verify it. They are different things.
+**As fontes são o alicerce. Os frameworks são o que cresce delas.**
+Se um framework afirma algo, vá à fonte para verificar. São coisas distintas.
 
 ---
 
-## Sources (Original Texts)
+## Fontes (Textos Originais)
 
 | | |
 |---|---|
-| [[sources/deepness\|Deepness]] | Personal OS v1 — 8 concepts, seed form |
-| [[sources/deepnesser\|Deepnesser]] | Full execution OS — every concept, uncut |
-| [[sources/philosophy\|1 · Philosophy]] | Gurren Lagann & Nietzsche — the original essay |
-| [[sources/psychology\|2 · Psychology]] | Deleting Everything — the PKM mausoleum essay |
-| [[sources/literature\|3 · Literature]] | Campbell & the Hero's Journey — the original text |
-| [[sources/programming\|4 · Programming]] | Fail Faster — the original essay |
-| [[sources/z-meditations\|5 · Meditations]] | Marcus Aurelius — 22 Stoic principles, source text |
+| [[sources/deepness\|Deepness]] | OS Pessoal v1 — 8 conceitos, forma semente |
+| [[sources/deepnesser\|Deepnesser]] | OS de Execução Completo — cada conceito, sem cortes |
+| [[sources/philosophy\|1 · Filosofia]] | Gurren Lagann e Nietzsche — o ensaio original |
+| [[sources/psychology\|2 · Psicologia]] | Deletando Tudo — o ensaio sobre o mausoléu PKM |
+| [[sources/literature\|3 · Literatura]] | Campbell e a Jornada do Herói — o texto original |
+| [[sources/programming\|4 · Programação]] | Falhe Mais Rápido — o ensaio original |
+| [[sources/z-meditations\|5 · Meditações]] | Marco Aurélio — 22 princípios estoicos, texto fonte |
 
 ---
 
-## Frameworks (Synthesis)
+## Frameworks (Síntese)
 
 | | |
 |---|---|
-| [[frameworks/deepness\|Deepness]] | The 8 seed concepts, analyzed and cross-linked |
-| [[frameworks/deepnesser\|Deepnesser]] | The full OS — key concepts mapped, not copied |
-| [[frameworks/philosophy\|Philosophy]] | Nietzsche · Will to Power · the Anti-Spirals |
-| [[frameworks/psychology\|Psychology]] | The mausoleum warning · deletion as discipline |
-| [[frameworks/literature\|Literature]] | Hero's Journey · Follow Your Bliss |
-| [[frameworks/programming\|Programming]] | Fail Faster · V1 must fail · spiral toward center |
-| [[frameworks/z-sum-meditations\|Meditations]] | Marcus Aurelius · 22 Stoic principles · synthesis |
+| [[frameworks/deepness\|Deepness]] | Os 8 conceitos semente, analisados e interligados |
+| [[frameworks/deepnesser\|Deepnesser]] | O OS completo — conceitos-chave mapeados, não copiados |
+| [[frameworks/philosophy\|Filosofia]] | Nietzsche · Vontade de Poder · os Anti-Espirais |
+| [[frameworks/psychology\|Psicologia]] | O aviso do mausoléu · exclusão como disciplina |
+| [[frameworks/literature\|Literatura]] | Jornada do Herói · Siga sua Felicidade |
+| [[frameworks/programming\|Programação]] | Falhe Mais Rápido · V1 precisa falhar · espiralar em direção ao centro |
+| [[frameworks/z-sum-meditations\|Meditações]] | Marco Aurélio · 22 princípios estoicos · síntese |
 
 ---
 
-## Alva Saga
+## Saga Alva
 
 | | |
 |---|---|
-| [[alva-saga/index\|Index]] | Overview · team · philosophical map |
-| [[alva-saga/0-prologue\|0-Prologue]] | Aesu's letter — the Trickster's first move |
-| [[alva-saga/chapter-1\|Chapter 1 — Cosmos]] | The campfire · Alter hears the warning |
-| [[alva-saga/chapter-2\|Chapter 2 — End]] | The loop breaks · ALVA fuses |
-| [[alva-saga/letter-about-zios\|Letter About Zios]] | The warning — absorption |
-| [[alva-saga/letter-from-zios\|Letter from Zios]] | The hollow — productive incompleteness |
-| [[alva-saga/the-epilogue\|The Epilogue — Final Pixel]] | Not over. Just different. |
+| [[alva-saga/index\|Índice]] | Visão geral · equipe · mapa filosófico |
+| [[alva-saga/0-prologue\|0-Prólogo]] | A carta de Aesu — o primeiro movimento do Trapaceiro |
+| [[alva-saga/chapter-1\|Capítulo 1 — Cosmos]] | A fogueira · Alter ouve o aviso |
+| [[alva-saga/chapter-2\|Capítulo 2 — Fim]] | O loop se rompe · ALVA funde |
+| [[alva-saga/letter-about-zios\|Carta Sobre Zios]] | O aviso — absorção |
+| [[alva-saga/letter-from-zios\|Carta de Zios]] | O vazio — incompletude produtiva |
+| [[alva-saga/the-epilogue\|O Epílogo — Pixel Final]] | Não acabou. Apenas diferente. |
 
 ---
 
-## The Thesis
+## A Tese
 
 ```
-Most stop at V3. Don't be most.
-Productive incompleteness, all the way down.
+A maioria para no V3. Não seja a maioria.
+Incompletude produtiva, até o fundo.
 ```

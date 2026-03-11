@@ -1,175 +1,175 @@
 ---
-title: "Source · 3 — Literature (Hero's Journey)"
+title: "Fonte · 3 — Literatura (Jornada do Herói)"
 tags: [source]
 ---
 
-# Source · 3 — Literature (Hero's Journey)
+# Fonte · 3 — Literatura (Jornada do Herói)
 
-> ⚠️ **This is the original source document — verbatim, unmodified.**
-> Synthesis and cross-links live in [[frameworks/literature|literature (framework)]].
+> ⚠️ **Este é o documento-fonte original — verbatim, sem modificações.**
+> Síntese e referências cruzadas estão em [[frameworks/literature|literatura (framework)]].
 
 ---
 
-3 - Literature
-# The Hero's Journey: A Framework for Personal Transformation
+3 - Literatura
+# A Jornada do Herói: Um Framework para Transformação Pessoal
 
-> "Life has no meaning. Each of us has meaning and we bring it to life. It is a waste to be asking the question when you are the answer."  
+> "A vida não tem significado. Cada um de nós tem significado e o trazemos para a vida. É um desperdício fazer a pergunta quando você é a resposta."
 > — Joseph Campbell
 
 ---
 
-Joseph Campbell was influenced by Carl Jung's analytical psychology, and his extensive work in comparative mythology and religion covers many aspects of the human experience. In his best-known work, _The Hero with a Thousand Faces_, published in 1949, Campbell describes the archetypal hero's journey, or monomyth, shared by the world—the hero being one who serves and sacrifices. He writes:
+Joseph Campbell foi influenciado pela psicologia analítica de Carl Jung, e seu extenso trabalho em mitologia comparada e religião abrange muitos aspectos da experiência humana. Em sua obra mais conhecida, _O Herói de Mil Faces_, publicada em 1949, Campbell descreve a jornada arquetípica do herói, ou monomito, compartilhada pelo mundo — sendo o herói aquele que serve e se sacrifica. Ele escreve:
 
-> "A hero ventures forth from the world of common day into a region of supernatural wonder: fabulous forces are there encountered and a decisive victory is won: the hero comes back from this mysterious adventure with the power to bestow boons on his fellow man."
+> "Um herói parte do mundo cotidiano em direção a uma região de maravilhas sobrenaturais: forças fabulosas são encontradas e uma vitória decisiva é conquistada: o herói retorna dessa aventura misteriosa com o poder de conceder bênçãos a seus semelhantes."
 
-## The Hero's Journey and the Human Condition
+## A Jornada do Herói e a Condição Humana
 
-The Hero's Journey is not just a mythological story but is deeply embedded within the human condition. It tells the story of a person encountering a difficult life problem and their journey in resolving it through personal transformation.
+A Jornada do Herói não é apenas uma história mitológica, mas está profundamente enraizada na condição humana. Conta a história de uma pessoa que encontra um problema de vida difícil e sua jornada para resolvê-lo por meio da transformação pessoal.
 
-Sometimes the change is **intentional** (new relationships, marriage, a new job, etc.), and the Hero is motivated to attempt and endure the process of change. Other times, the change is **unintentional** (trauma, injury, relationships breaking apart, etc.), leaving the Hero shocked.
+Às vezes a mudança é **intencional** (novos relacionamentos, casamento, um novo emprego, etc.), e o Herói é motivado a tentar e suportar o processo de mudança. Em outras, a mudança é **não intencional** (trauma, lesão, relacionamentos se desfazendo, etc.), deixando o Herói em choque.
 
-The hero journey provides a template for all change, intentional and unintentional.
+A jornada do herói fornece um modelo para toda mudança, intencional e não intencional.
 
-### Clinical Applications
+### Aplicações Clínicas
 
-Patients who were introduced to the Hero's Journey as a means of reconceptualizing their disorder as a hero quest, rather than an external stressful task, shifted their attitude from passive to active, supporting them to become the "author of their own lives." This has been clinically tested in a diverse range of issues, such as anxiety, depression, trauma, addiction, PTSD, and psychosis.
+Pacientes que foram apresentados à Jornada do Herói como meio de reconceptualizar seu transtorno como uma missão heroica, em vez de uma tarefa externa estressante, mudaram sua atitude de passiva para ativa, apoiando-os a se tornarem "autores de suas próprias vidas." Isso foi clinicamente testado em uma ampla gama de questões, como ansiedade, depressão, trauma, dependência, TEPT e psicose.
 
-The role of the therapist is to guide and support personal change, acting as a mentor. It allows clients to become client-heroes, assisting them to recognize where they are in their own process of change, how to navigate their own treatment journey, and author their own change story.
+O papel do terapeuta é guiar e apoiar a mudança pessoal, agindo como mentor. Permite que os clientes se tornem clientes-heróis, ajudando-os a reconhecer onde estão em seu próprio processo de mudança, como navegar em sua própria jornada de tratamento e ser o autor de sua própria história de mudança.
 
-## The Role of Mentors
+## O Papel dos Mentores
 
-In many of the hero myths, the weakness of the hero is balanced by the appearance of strong "tutelary" figures. A central hero of Greek mythology is Achilles, the greatest of all the Greek warriors. As a boy, he was guided by the wise centaur Chiron, tutor of gods and heroes, who instructed him in the arts of medicine, music, riding, and hunting.
+Em muitos dos mitos heroicos, a fraqueza do herói é equilibrada pelo aparecimento de fortes figuras "tutelares". Um herói central da mitologia grega é Aquiles, o maior de todos os guerreiros gregos. Quando criança, foi guiado pelo sábio centauro Quíron, tutor de deuses e heróis, que o instruiu nas artes da medicina, música, equitação e caça.
 
-> "These godlike figures are in fact symbolic representatives of the whole psyche, the larger and more comprehensive identity that supplies the strength that the personal ego lacks. Their special role suggests that the essential function of the heroic myth is the development of the individual's ego-consciousness—his awareness of his own strengths and weaknesses—in a manner that will equip him for the arduous tasks with which life confronts him."
+> "Essas figuras divinas são, de fato, representantes simbólicos da psique inteira, a identidade maior e mais abrangente que fornece a força que o ego pessoal não tem. Seu papel especial sugere que a função essencial do mito heroico é o desenvolvimento da consciência do ego do indivíduo — sua consciência de seus próprios pontos fortes e fracos — de uma forma que o equipará para as tarefas árduas com que a vida o confronta."
 
-## The Necessity of Change
+## A Necessidade da Mudança
 
-The significant life problem is a situation where the Hero's existing knowledge and skills are no longer efficacious. In finding a solution, the Hero is required to leave his familiar, known world and venture into the unknown.
+O problema de vida significativo é uma situação onde o conhecimento e as habilidades existentes do Herói não são mais eficazes. Para encontrar uma solução, o Herói é obrigado a deixar seu mundo familiar e conhecido e aventurar-se no desconhecido.
 
-Significant life problems force us to change. However, many of us are reluctant to do so as we do not want to sacrifice our comfort. Ignoring these matters forms unconscious snags which give us a state of impoverishment in our personality and inhibit the growth of the good qualities that lie dormant in our psyche, making our shadow blacker and denser.
+Problemas de vida significativos nos forçam a mudar. No entanto, muitos de nós relutamos em fazê-lo, pois não queremos sacrificar nosso conforto. Ignorar essas questões forma armadilhas inconscientes que nos colocam em um estado de empobrecimento em nossa personalidade e inibem o crescimento das boas qualidades que dormem em nossa psique, tornando nossa sombra mais escura e densa.
 
-We lose control of our life and become puppets of existence. As Stoic philosopher Seneca writes:
+Perdemos o controle de nossa vida e nos tornamos marionetes da existência. Como escreve o filósofo estoico Sêneca:
 
-> "Fate leads the willing, and drags along the reluctant."
+> "O destino conduz os dispostos e arrasta os relutantes."
 
-It is as if one keeps living but is dragged by chains or swimming against the river currents. This is a characteristic attitude of the neurotic: an artificial barrier invented by oneself which causes one to suffer from internal conflict in order to avoid facing difficult life choices.
+É como se continuássemos vivendo, mas arrastados por correntes ou nadando contra a correnteza do rio. Esta é uma atitude característica do neurótico: uma barreira artificial inventada por si mesmo que faz o indivíduo sofrer de conflito interno para evitar enfrentar escolhas de vida difíceis.
 
-Campbell tells us that heroic myths provide the individual with "inspiration for aspiration." Myths have the ability to link the everyday to the eternal, to give meaning to the mundane.
+Campbell nos diz que os mitos heroicos fornecem ao indivíduo "inspiração para a aspiração." Os mitos têm a capacidade de ligar o cotidiano ao eterno, de dar sentido ao mundano.
 
-## The Twelve Stages of the Hero's Journey
+## Os Doze Estágios da Jornada do Herói
 
-In _The Hero with a Thousand Faces_, Campbell identified that a Hero's Journey occurs in three sequential phases: separation, initiation, and the return. These are further divided into 17 substages. However, we will be using the more popular and modern adaptation by Christopher Vogler, detailed in his work _The Writer's Journey_, which is inspired by Campbell. He proposes a Twelve Stage Hero's Journey.
-
----
-
-### Phase One: Separation
-
-#### Stage 1: The Ordinary World
-
-The very first stage of the Hero's Journey is the **Ordinary World**, referring to one's familiar life: daily routine, the stresses and joys of work, family, and social connections. A common characteristic is a growing awareness that something is not quite right, life is somehow lacking.
-
-For instance, an employee may be aware that the enjoyment of his work has been diminishing for some time, but the demands of their day-to-day or concerns about finding an alternative job lead them to an increasingly stressful situation, and so they cling to their Ordinary World.
-
-#### Stage 2: The Call to Adventure
-
-The separation phase of the Hero's Journey begins with the second stage, the **Call to Adventure**, disrupting the comfort of the Hero's Ordinary World and presenting him with a quest that must be undertaken.
-
-Unintentional calls may include the discovery of an infidelity, the death of a loved one, the diagnosis of an illness, etc., while intentional calls include seeking a new career, moving cities, the arrival of a first child, etc.
-
-The Call to Adventure separates the person from the aspects of their previous life and causes anxiety.
-
-#### Stage 3: Refusal of the Call
-
-Many are overwhelmed and believe that their problem is beyond their capabilities, leading to the third stage: **Refusal**. This is a very common and important stage that communicates the risks involved in the Journey ahead.
-
-However, remaining in the Refusal stage will lead to a deterioration in one's life and relationships. One finds himself with little or no motivation, highlighting the ineffectiveness of one's coping strategies. This unfamiliar situation causes stress as one is unable to deal with the life problem.
-
-#### Stage 4: Meeting the Mentor
-
-At this crucial turning point, the Hero desperately needs guidance, leading to the fourth stage: **Meeting the Mentor**.
-
-The Mentor is the archetypal wise old man. It is his role to assist the Hero's progress to the realization that personal change is a necessity for the resolution of his problem, giving him practical training, wise advice, or self-confidence in order to overcome the initial fears, allowing him to move from inaction to action.
-
-These tutelary figures do not necessarily have to be physical ones—they can also be your favorite philosopher, public figure, family member, or any other person you look up to as your ideal-self.
+Em _O Herói de Mil Faces_, Campbell identificou que a Jornada do Herói ocorre em três fases sequenciais: separação, iniciação e retorno. Estas são ainda divididas em 17 subestágios. No entanto, utilizaremos a adaptação mais popular e moderna de Christopher Vogler, detalhada em seu trabalho _A Jornada do Escritor_, que é inspirada em Campbell. Ele propõe uma Jornada do Herói de Doze Estágios.
 
 ---
 
-### Phase Two: Initiation
+### Fase Um: Separação
 
-#### Stage 5: Crossing the First Threshold
+#### Estágio 1: O Mundo Comum
 
-When the Hero is committed to change, we enter the second phase of the Hero's Journey: **Initiation**, and the fifth stage: **Crossing the First Threshold**.
+O primeiro estágio da Jornada do Herói é o **Mundo Comum**, referindo-se à vida familiar de cada um: rotina diária, os estresses e alegrias do trabalho, família e conexões sociais. Uma característica comum é uma crescente consciência de que algo não está bem, de que a vida está de alguma forma faltando.
 
-The Hero now leaves the safe haven of the "Ordinary World" and enters the "Special World," an unfamiliar place where one confronts his "dragon"—his worst fear, event, person, situation, or memory long avoided. As trials become more difficult, the Hero hones his skills and gains experience. However, as the trials increase in complexity, the demands placed on the Hero lead to higher levels of anxiety, and his first confrontation with the dragon is likely to fail. Without help, he may consider giving up.
+Por exemplo, um funcionário pode perceber que o prazer em seu trabalho vem diminuindo há algum tempo, mas as demandas do dia a dia ou preocupações em encontrar um emprego alternativo o levam a uma situação cada vez mais estressante, e assim ele se apega ao seu Mundo Comum.
 
-#### Stage 6: Tests, Allies, and Enemies
+#### Estágio 2: O Chamado à Aventura
 
-In the sixth stage, **Tests, Allies, and Enemies**, the Hero explores the Special World and encounters tests and enemies. Here he must seek Allies—friendly forces who support change attempts and decrease the Hero's isolation.
+A fase de separação da Jornada do Herói começa com o segundo estágio, o **Chamado à Aventura**, perturbando o conforto do Mundo Comum do Herói e apresentando-lhe uma missão que deve ser empreendida.
 
-A common barrier here is the fear of asking for help, for being seen as less than capable, or for possibly being rejected. Ironically, vulnerability becomes a key skill in resiliency, rather than a sign of weakness.
+Chamados não intencionais podem incluir a descoberta de uma infidelidade, a morte de um ente querido, o diagnóstico de uma doença, etc., enquanto chamados intencionais incluem buscar uma nova carreira, mudar de cidade, a chegada do primeiro filho, etc.
 
-#### Stage 7: Approach to the Inmost Cave
+O Chamado à Aventura separa a pessoa dos aspectos de sua vida anterior e causa ansiedade.
 
-Stage seven is the **Approach to the Inmost Cave**, where one must make his final preparations before descending into the unknown.
+#### Estágio 3: Recusa do Chamado
 
-#### Stage 8: The Supreme Ordeal
+Muitos se sentem sobrecarregados e acreditam que seu problema está além de suas capacidades, levando ao terceiro estágio: **Recusa**. Este é um estágio muito comum e importante que comunica os riscos envolvidos na Jornada à frente.
 
-When the Hero is ready, he faces the eighth stage: **The Supreme Ordeal**. It is the greatest challenge yet, the moment when all looks lost for the Hero. Many feel like they are "back at square one." Fortunately, Allies have witnessed this major setback and are present to assist the Hero.
+No entanto, permanecer no estágio de Recusa levará a uma deterioração na vida e nos relacionamentos. O indivíduo se encontra com pouca ou nenhuma motivação, destacando a ineficácia das estratégias de enfrentamento. Esta situação desconhecida causa estresse, pois não se consegue lidar com o problema de vida.
 
-Over a period of time, the repeated confrontation with the dragon leads to the growing realization that what was once believed to be impossible is now possible. After facing the unknown and defeating the dragon, the Hero experiences a psychological death and rebirth—the death of an old aspect of one's self and the birth of a new and more capable self.
+#### Estágio 4: Encontro com o Mentor
 
-#### Stage 9: Reward (Seizing the Sword)
+Neste momento crucial, o Herói precisa desesperadamente de orientação, levando ao quarto estágio: **Encontro com o Mentor**.
 
-The Hero gains insights, receiving this as his **Reward** (the ninth stage). But the journey is not over yet.
+O Mentor é o arquetípico homem sábio. É seu papel auxiliar o progresso do Herói à percepção de que a mudança pessoal é necessária para a resolução do problema, dando-lhe treinamento prático, conselho sábio ou autoconfiança para superar os medos iniciais, permitindo-lhe mover-se da inação para a ação.
 
----
-
-### Phase Three: The Return
-
-#### Stage 10: The Road Back
-
-Now begins the third phase: **The Return**. In the tenth stage, **The Road Back**, the Hero must hold his reward and make his way back to the Ordinary World, but on the way he will be confronted with more enemies and dragons. However, the Hero knows that there's no way back and is motivated to keep going.
-
-#### Stage 11: The Resurrection
-
-In the eleventh stage, **The Resurrection**, the weary Hero must experience a second psychological death, experiencing a resurrection with the attributes of his ordinary self in addition to the new insights from the journey and characters he has met along the road of life. He moves from dependence to responsibility, from silence to finding his voice. The Hero has increased resilience and has learned how to regulate fear, sadness, and other emotions that arise when taking action.
-
-He is now purified from the land of the dead and can return home.
-
-#### Stage 12: Return with the Elixir
-
-This leads to the twelfth and final stage: **Return with the Elixir**. The elixir is the final Reward earned on the Hero's Journey. It is something for the Hero to share with others, or something with the power to heal: wisdom, love, or simply the experience of surviving the Special World. The Hero comes back to his Ordinary World with a new self, having faced terrible dangers and possibly death, but now looks forward to the start of a new life.
+Essas figuras tutelares não precisam necessariamente ser físicas — podem também ser seu filósofo favorito, figura pública, membro da família ou qualquer outra pessoa que você admira como seu eu ideal.
 
 ---
 
-## A Cyclical Journey
+### Fase Dois: Iniciação
 
-This is not just a one-time linear path, but in fact a lifelong cyclical process.
+#### Estágio 5: Cruzamento do Primeiro Limiar
 
-> "Over and over again, you are called to the realm of adventure, you are called to new horizons. Each time, there is the same problem: do I dare? And then if you do dare, the dangers are there, and the help also, and the fulfillment or the fiasco."
+Quando o Herói está comprometido com a mudança, entramos na segunda fase da Jornada do Herói: **Iniciação**, e o quinto estágio: **Cruzamento do Primeiro Limiar**.
 
-This awareness to see life as a Hero's Journey allows the chaos and challenges of life to have both some sequence and purpose. It gives us a beautiful framework for dealing with life's problems. An unwanted event can be viewed as a Call to Adventure, difficult life events as confronting one's dragon. When one completes these, one receives a reward, transforming into a new self, with an elixir to share the experience of one's Special World with others.
+O Herói agora deixa o porto seguro do "Mundo Comum" e entra no "Mundo Especial", um lugar desconhecido onde enfrenta seu "dragão" — seu pior medo, evento, pessoa, situação ou memória há muito evitada. À medida que os testes se tornam mais difíceis, o Herói apura suas habilidades e ganha experiência. No entanto, à medida que os testes aumentam em complexidade, as demandas colocadas sobre o Herói levam a níveis mais altos de ansiedade, e seu primeiro confronto com o dragão provavelmente falhará. Sem ajuda, ele pode considerar desistir.
 
-The Hero's Journey is:
+#### Estágio 6: Testes, Aliados e Inimigos
 
-> "The quest to find the inward thing that you basically are."
+No sexto estágio, **Testes, Aliados e Inimigos**, o Herói explora o Mundo Especial e encontra testes e inimigos. Aqui ele deve buscar Aliados — forças amigáveis que apoiam tentativas de mudança e diminuem o isolamento do Herói.
 
-## Follow Your Bliss
+Uma barreira comum aqui é o medo de pedir ajuda, de ser visto como menos do que capaz, ou de possivelmente ser rejeitado. Ironicamente, a vulnerabilidade se torna uma habilidade-chave na resiliência, em vez de um sinal de fraqueza.
 
-One of Campbell's most frequently repeated phrases is to "Follow your bliss":
+#### Estágio 7: Aproximação da Caverna Mais Profunda
 
-> "If you do follow your bliss you put yourself on a kind of track that has been there all the while, waiting for you, and the life you ought to be living is the one you are living. When you can see that, you begin to meet people who are in your field of bliss, and they open doors to you. I say, follow your bliss and don't be afraid, and doors will open where you didn't know they were going to be."
+O sétimo estágio é a **Aproximação da Caverna Mais Profunda**, onde o indivíduo deve fazer seus preparativos finais antes de descer ao desconhecido.
 
-To follow one's bliss is not simply doing what one likes to do and certainly not what one is simply told. It is to search deeply within oneself and identify that pursuit or burning need which one is truly passionate about, giving oneself absolutely to it, and the rest will follow.
+#### Estágio 8: A Provação Suprema
 
-> "People say that what we're all seeking is a meaning for life. I don't think that's what we're really seeking. I think that what we're seeking is an experience of being alive, so that our life experiences on the purely physical plane will have resonances with our innermost being and reality, so that we actually feel the rapture of being alive."
+Quando o Herói está pronto, ele enfrenta o oitavo estágio: **A Provação Suprema**. É o maior desafio até agora, o momento em que tudo parece perdido para o Herói. Muitos sentem que estão "de volta à estaca zero." Felizmente, os Aliados testemunharam esse grande revés e estão presentes para auxiliar o Herói.
 
-## The Experience of Eternity
+Ao longo do tempo, o confronto repetido com o dragão leva à crescente percepção de que o que antes se acreditava ser impossível agora é possível. Após enfrentar o desconhecido e derrotar o dragão, o Herói experimenta uma morte e renascimento psicológico — a morte de um velho aspecto de si mesmo e o nascimento de um eu novo e mais capaz.
 
-This feeling of rapture or bliss is associated with the Hero's Journey that we face on a daily basis in this life. He writes:
+#### Estágio 9: Recompensa (Apreensão da Espada)
 
-> "The experience of eternity right here and now is the function of life. Eternity isn't some later time. Eternity isn't even a long time. Eternity has nothing to do with time. Eternity is that dimension of the here and now that all thinking in temporal terms cuts off... the experience of eternity right here and now, in all things, whether thought of as good or as evil. Heaven is not the place to have the experience; here is the place to have the experience.
-> 
-> When you realize that eternity is right here now, that it is within your possibility to experience the eternity of your own truth and being, then you grasp the following:
-> 
-> **That which you are was never born and will never die.**"
+O Herói obtém percepções, recebendo-as como sua **Recompensa** (o nono estágio). Mas a jornada ainda não acabou.
+
+---
+
+### Fase Três: O Retorno
+
+#### Estágio 10: O Caminho de Volta
+
+Agora começa a terceira fase: **O Retorno**. No décimo estágio, **O Caminho de Volta**, o Herói deve segurar sua recompensa e fazer seu caminho de volta ao Mundo Comum, mas no caminho será confrontado com mais inimigos e dragões. No entanto, o Herói sabe que não há caminho de volta e está motivado a continuar.
+
+#### Estágio 11: A Ressurreição
+
+No décimo primeiro estágio, **A Ressurreição**, o Herói cansado deve experimentar uma segunda morte psicológica, experienciando uma ressurreição com os atributos de seu eu ordinário, além das novas percepções da jornada e dos personagens que encontrou ao longo do caminho da vida. Ele passa da dependência para a responsabilidade, do silêncio para encontrar sua voz. O Herói tem maior resiliência e aprendeu a regular o medo, a tristeza e outras emoções que surgem ao agir.
+
+Ele agora está purificado da terra dos mortos e pode retornar para casa.
+
+#### Estágio 12: Retorno com o Elixir
+
+Isso leva ao décimo segundo e último estágio: **Retorno com o Elixir**. O elixir é a Recompensa final conquistada na Jornada do Herói. É algo para o Herói compartilhar com os outros, ou algo com o poder de curar: sabedoria, amor, ou simplesmente a experiência de sobreviver ao Mundo Especial. O Herói retorna ao seu Mundo Comum com um novo eu, tendo enfrentado perigos terríveis e possivelmente a morte, mas agora aguarda o início de uma nova vida.
+
+---
+
+## Uma Jornada Cíclica
+
+Este não é apenas um caminho linear único, mas na verdade um processo cíclico ao longo da vida.
+
+> "Repetidas vezes, você é chamado ao reino da aventura, você é chamado a novos horizontes. Cada vez, há o mesmo problema: ouso? E então se você ousar, os perigos estão lá, e a ajuda também, e a realização ou o fracasso."
+
+Essa consciência de ver a vida como uma Jornada do Herói permite que o caos e os desafios da vida tenham tanto uma sequência quanto um propósito. Nos dá um belo framework para lidar com os problemas da vida. Um evento indesejado pode ser visto como um Chamado à Aventura, eventos difíceis da vida como enfrentar o próprio dragão. Quando se completa esses, recebe-se uma recompensa, transformando-se em um novo eu, com um elixir para compartilhar a experiência do próprio Mundo Especial com os outros.
+
+A Jornada do Herói é:
+
+> "A busca para encontrar a coisa interior que você basicamente é."
+
+## Siga sua Felicidade
+
+Uma das frases mais frequentemente repetidas de Campbell é "Siga sua felicidade":
+
+> "Se você seguir sua felicidade, você se coloca em um tipo de trilho que sempre esteve lá, esperando por você, e a vida que você deveria estar vivendo é a que você está vivendo. Quando você pode ver isso, começa a encontrar pessoas que estão em seu campo de felicidade, e elas abrem portas para você. Eu digo, siga sua felicidade e não tenha medo, e portas se abrirão onde você não sabia que iam estar."
+
+Seguir a própria felicidade não é simplesmente fazer o que gosta de fazer e certamente não o que lhe é simplesmente dito. É buscar profundamente dentro de si e identificar essa perseguição ou necessidade ardente pela qual se é verdadeiramente apaixonado, dedicando-se absolutamente a ela, e o resto virá.
+
+> "As pessoas dizem que o que todos procuramos é um significado para a vida. Não acho que seja isso que realmente procuramos. Acho que o que procuramos é uma experiência de estar vivo, para que nossas experiências de vida no plano puramente físico tenham ressonâncias com nosso ser e realidade mais internos, para que realmente sintamos o êxtase de estar vivo."
+
+## A Experiência da Eternidade
+
+Esse sentimento de êxtase ou felicidade está associado à Jornada do Herói que enfrentamos diariamente nesta vida. Ele escreve:
+
+> "A experiência da eternidade aqui e agora é a função da vida. A eternidade não é um tempo posterior. A eternidade não é nem mesmo um longo tempo. A eternidade não tem nada a ver com o tempo. A eternidade é aquela dimensão do aqui e agora que todo o pensamento em termos temporais corta... a experiência da eternidade aqui e agora, em todas as coisas, sejam pensadas como boas ou más. O Céu não é o lugar para ter a experiência; aqui é o lugar para ter a experiência.
+>
+> Quando você percebe que a eternidade está aqui agora, que está dentro de suas possibilidades experienciar a eternidade de sua própria verdade e ser, então você compreende o seguinte:
+>
+> **O que você é nunca nasceu e nunca morrerá.**"

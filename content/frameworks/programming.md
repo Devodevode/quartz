@@ -1,64 +1,64 @@
 ---
-title: Programming — Framework
+title: Programação — Framework
 ---
 
-# Programming
-### Fail Faster · V1 Must Fail · Spiral Toward Center
+# Programação
+### Falhe Mais Rápido · V1 Precisa Falhar · Espiralize em Direção ao Centro
 
-> 📄 **Original text (verbatim):** [[sources/programming|Source · 4 — Programming]]
-> *This file is synthesis and cross-links. The source is the essay.*
+> 📄 **Texto original (verbatim):** [[sources/programming|Fonte · 4 — Programação]]
+> *Este arquivo é síntese e referências cruzadas. A fonte é o ensaio.*
 
-← [[index|The Map]]
-
----
-
-## The One Rule
-
-> *"Your ideas can't be precious. Your ego can't need protecting. The only thing that matters is the game you ship, not any of the steps along the way."*
+← [[index|O Mapa]]
 
 ---
 
-## Why V1 Must Fail
+## A Única Regra
 
-Mario: *"a plumber on drugs."* Sonic: *"an indigo hedgehog in sneakers."* Gears of War: *"linebackers with chainsaw guns."*
-
-> *"These ideas are all terrible, and they're all great. As mere ideas, they're meaningless."*
-
-V1 is not supposed to be good. V1 is supposed to *exist.* Teams that spent too long perfecting the concept made V1 emotionally expensive to abandon — so they couldn't abandon it when they should have.
-
-This is [[sources/deepnesser#the-prerequisites-trap|the Prerequisites Trap]] in product form. Waiting for the perfect idea before starting = waiting to be ready before learning.
+> *"Suas ideias não podem ser preciosas. Seu ego não pode precisar de proteção. A única coisa que importa é o jogo que você lança, não nenhum dos passos ao longo do caminho."*
 
 ---
 
-## Spiraling Toward Center
+## Por Que V1 Precisa Falhar
 
-> *"The art of what we do is simply spiraling towards a better center, course-correcting along the way."*
+Mario: *"um encanador drogado."* Sonic: *"um ouriço índigo usando tênis."* Gears of War: *"zagueiros com metralhadoras de motosserra."*
 
-Not linear improvement. Not restarts from zero. *Spiraling* — each pass carrying forward the specific failure modes of the last one. V5 is built on what broke in V4. This is also the archive chain: G1→G12, each generation identifying what the previous missed. None wasted.
+> *"Essas ideias são todas terríveis e todas ótimas. Como meras ideias, são insignificantes."*
 
-*See: [[frameworks/literature#the-cyclical-structure|Hero's Journey cyclical structure]]*
+V1 não deve ser bom. V1 deve *existir.* Equipes que passaram tempo demais aperfeiçoando o conceito tornaram o V1 emocionalmente caro de abandonar — então não conseguiam abandoná-lo quando deveriam.
+
+Isso é a [[sources/deepnesser#the-prerequisites-trap|Armadilha dos Pré-Requisitos]] na forma de produto. Esperar pela ideia perfeita antes de começar = esperar estar pronto antes de aprender.
 
 ---
 
-## The Practical Loop
+## Espiralizando em Direção ao Centro
+
+> *"A arte do que fazemos é simplesmente espiralar em direção a um centro melhor, corrigindo o rumo ao longo do caminho."*
+
+Não melhoria linear. Não reinicializações do zero. *Espiralizando* — cada passagem carregando para frente os modos de falha específicos da última. V5 é construído sobre o que quebrou no V4. Esta é também a cadeia de arquivos: G1→G12, cada geração identificando o que a anterior perdeu. Nenhuma desperdiçada.
+
+*Ver: [[frameworks/literature#the-cyclical-structure|Estrutura cíclica da Jornada do Herói]]*
+
+---
+
+## O Loop Prático
 
 ```
-Pick any target → Test → Fail → Learn from failure → Iterate
+Escolha qualquer alvo → Teste → Falhe → Aprenda com o fracasso → Itere
 ```
 
-Do this before you have code. Paper. Words on a page. Concept art in front of eyes immediately. The prototype doesn't need art. It needs to be raw and open so you can understand it without distraction.
+Faça isso antes de ter código. Papel. Palavras numa página. Arte conceitual diante dos olhos imediatamente. O protótipo não precisa de arte. Precisa ser cru e aberto para que você possa entendê-lo sem distração.
 
-> *"The later you fail, the more expensive your failures will be to correct, and so the less likely you'll be to correct them."*
-
----
-
-## This Vault Is the Proof
-
-The archive chain (G1→G12) demonstrates this principle applied to self-documentation. Each version identified what the previous version missed. Each was incomplete compared to the next. None were wasted. The *"perfect"* earlier versions were necessary — they are the iterations that made the current one possible.
-
-*See: [[sources/deepnesser#greedy-optimization|Greedy Optimization]] — take the best option at every step, without attachment to the prior step.*
+> *"Quanto mais tarde você falhar, mais caros serão seus fracassos para corrigir, e portanto menos provável que você os corrija."*
 
 ---
 
-*→ [[sources/programming|Read the original essay — the full "fail faster" argument]]*
-*Connected: [[sources/deepnesser#the-v-curve|V-Curve]] · [[sources/deepnesser#the-prerequisites-trap|Prerequisites Trap]] · [[sources/deepnesser#greedy-optimization|Greedy Optimization]]*
+## Este Cofre É a Prova
+
+A cadeia de arquivos (G1→G12) demonstra esse princípio aplicado à autodocumentação. Cada versão identificou o que a versão anterior perdeu. Cada uma estava incompleta em comparação com a próxima. Nenhuma foi desperdiçada. As versões "perfeitas" anteriores eram necessárias — são as iterações que tornaram a atual possível.
+
+*Ver: [[sources/deepnesser#greedy-optimization|Otimização Gananciosa]] — tome a melhor opção a cada passo, sem apego ao passo anterior.*
+
+---
+
+*→ [[sources/programming|Leia o ensaio original — o argumento completo do "falhe mais rápido"]]*
+*Conectado: [[sources/deepnesser#the-v-curve|Curva-V]] · [[sources/deepnesser#the-prerequisites-trap|Armadilha dos Pré-Requisitos]] · [[sources/deepnesser#greedy-optimization|Otimização Gananciosa]]*

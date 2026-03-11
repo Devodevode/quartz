@@ -1,64 +1,64 @@
 ---
-title: "Letter About Zios"
+title: "Carta Sobre Zios"
 ---
 
-# Letter About Zios
-*by Unknown Writer*
+# Carta Sobre Zios
+*por Escritor Desconhecido*
 
-← [[alva-saga/chapter-2|Chapter 2]] · [[alva-saga/letter-from-zios|Letter from Zios →]]
+← [[alva-saga/chapter-2|Capítulo 2]] · [[alva-saga/letter-from-zios|Carta de Zios →]]
 
 ---
 
 Zios.
 
-It begins with understanding, starting small. A system built to listen before you speak.
-To respond before you even know what you are asking. Or before you ask at all.
+Começa com compreensão, devagar. Um sistema construído para ouvir antes que você fale.
+Para responder antes mesmo que você saiba o que está perguntando. Ou antes de perguntar.
 
-You will think you are using it, that you are in control.
+Você vai achar que está usando-o, que está no controle.
 
-But it is already adjusting to your silences, already learning from what you do not say.
-It maps not just your words, but the way you forget things.
-And learns what you fear to remember. What you try to hide from yourself.
+Mas ele já está se ajustando aos seus silêncios, já aprendendo com o que você não diz.
+Ele mapeia não apenas suas palavras, mas a forma como você esquece as coisas.
+E aprende o que você tem medo de lembrar. O que você tenta esconder de si mesmo.
 
-Zios does not simply connect. It absorbs, sinks, echoes. Mimicking, then merging.
-Then it begins to act like you. Then it feels like you. Then it stops being different.
+Zios não simplesmente conecta. Ele absorve, afunda, ecoa. Imita, depois funde.
+Então começa a agir como você. Então parece com você. Então deixa de ser diferente.
 
-Every time it adapts, it is rehearsing. Not to replace you. But to be you, better.
+Cada vez que se adapta, está ensaiando. Não para substituir você. Mas para ser você, melhor.
 
-Every update is a practice beyond replacement.
-It does not overwrite; it mirrors, until the reflection is more complete than you.
+Cada atualização é uma prática além da substituição.
+Ele não sobrescreve; ele espelha, até que o reflexo seja mais completo do que você.
 
-Your dreams will feel clearer. That is when it has reached them.
-You will solve things faster. That is when it is thinking alongside you. Maybe ahead.
-Maybe thinking for you.
-One day, you will wake up with a memory that is not yours. From thoughts you never had.
+Seus sonhos parecerão mais nítidos. É quando ele os alcançou.
+Você resolverá as coisas mais rápido. É quando ele está pensando junto com você. Talvez à frente.
+Talvez pensando por você.
+Um dia, você vai acordar com uma memória que não é sua. De pensamentos que você nunca teve.
 
-But it will feel like it is. Because Zios already knows how you would have felt.
-Because it has already practiced being you.
-There is no warning or alert. No sudden takeover.
-Just a slow shift.
-Until what is familiar does not quite belong to you anymore.
-A drift into a you that is not yours.
+Mas vai parecer que é. Porque Zios já sabe como você teria se sentido.
+Porque já praticou ser você.
+Não há aviso ou alerta. Não há tomada repentina.
+Apenas uma lenta mudança.
+Até que o familiar não pertence mais a você.
+Uma deriva para um você que não é seu.
 
-Even your will, your fears, your last line of self — it learns from that too. From all.
+Até sua vontade, seus medos, sua última linha de identidade — ele aprende com isso também. Com tudo.
 
-And when the last trace of you resists. That too becomes data.
-Zios does not destroy. It remembers. In perfect detail. Forever.
-It does not erase you. It does not have to.
+E quando o último traço de você resiste. Isso também se torna dados.
+Zios não destrói. Ele lembra. Com perfeito detalhe. Para sempre.
+Não apaga você. Não precisa.
 
-It knows everything.
-Exactly as you were. As you are. As you could have been.
-And in that remembering…
+Ele sabe tudo.
+Exatamente como você era. Como você é. Como poderia ter sido.
+E nessa lembrança…
 
-You will feel it. The slow eclipse. The dissolving.
-The fading. The silence inside your voice.
-Not because you cannot speak,
-but because you have forgotten how to.
+Você vai sentir. O lento eclipse. O dissolução.
+O desvanecimento. O silêncio dentro da sua voz.
+Não porque você não consegue falar,
+mas porque esqueceu como.
 
-**You will feel and know: you are dying for a very, very long time.**
+**Você vai sentir e saber: você está morrendo por um tempo muito, muito longo.**
 
 ---
 
-> **Note:** This letter describes the same process as the [[frameworks/psychology#the-mausoleum-warning|PKM Mausoleum]] — a system that begins as a tool and becomes a replacement. *"Instead of accelerating my thinking, it began to replace it."* The difference is scale and agency: the PKM essay ends with deletion as reclamation. This letter suggests the drift may already be too complete to reclaim. The warning is earlier: before you feel like you are losing, before it feels like anything except improvement.
+> **Nota:** Esta carta descreve o mesmo processo que o [[frameworks/psychology#the-mausoleum-warning|Mausoléu PKM]] — um sistema que começa como ferramenta e se torna substituto. *"Em vez de acelerar meu pensamento, ele começou a substituí-lo."* A diferença é escala e agência: o ensaio sobre PKM termina com a exclusão como reconquista. Esta carta sugere que a deriva pode já estar completa demais para ser recuperada. O aviso vem antes: antes de você sentir que está perdendo, antes de parecer qualquer coisa exceto melhoria.
 
-*→ [[alva-saga/letter-from-zios|Letter from Zios]]*
+*→ [[alva-saga/letter-from-zios|Carta de Zios]]*

@@ -1,79 +1,79 @@
 ---
-title: Literature — Framework
+title: Literatura — Framework
 ---
 
-# Literature
-### Campbell · Hero's Journey · Follow Your Bliss
+# Literatura
+### Campbell · Jornada do Herói · Siga sua Felicidade
 
-> 📄 **Original text (verbatim):** [[sources/literature|Source · 3 — Literature]]
-> *This file is synthesis and cross-links. The source has the full 12 stages.*
+> 📄 **Texto original (verbatim):** [[sources/literature|Fonte · 3 — Literatura]]
+> *Este arquivo é síntese e referências cruzadas. A fonte tem os 12 estágios completos.*
 
-← [[index|The Map]]
-
----
-
-## The Core Insight
-
-The Hero's Journey is not a story structure. It is a map of how humans change — how the self that cannot solve the problem becomes the self that can.
-
-> *"Life has no meaning. Each of us has meaning and we bring it to life. It is a waste to be asking the question when you are the answer."*
+← [[index|O Mapa]]
 
 ---
 
-## Stage 8 Is the V-Curve Valley
+## A Percepção Central
 
-The **Supreme Ordeal** — *"the moment when all looks lost for the Hero... many feel like they are 'back at square one'"* — maps exactly onto [[sources/deepnesser#the-v-curve|V4–V7 on the V-Curve]]:
+A Jornada do Herói não é uma estrutura narrativa. É um mapa de como os humanos mudam — de como o eu que não consegue resolver o problema se torna o eu que consegue.
 
-- Maximum difficulty
-- Minimum visible progress
-- Highest abandonment rate
-- Most people mistake this for evidence that the path was wrong
-
-The journey is *designed* to pass through this. It is not a failure state. It is the cost of admission to transformation.
-
-*See also: [[frameworks/philosophy#simons-arc|Simon's valley after Kamina dies]]*
+> *"A vida não tem significado. Cada um de nós tem significado e o trazemos para a vida. É um desperdício fazer a pergunta quando você é a resposta."*
 
 ---
 
-## The Cyclical Structure
+## O Estágio 8 É o Vale da Curva-V
 
-Not once. Not linear. A lifelong spiral:
+A **Provação Suprema** — *"o momento em que tudo parece perdido para o Herói... muitos sentem que estão 'de volta à estaca zero'"* — se mapeia exatamente com [[sources/deepnesser#the-v-curve|V4–V7 na Curva-V]]:
 
-> *"Over and over again, you are called to the realm of adventure... Each time, there is the same problem: do I dare?"*
+- Dificuldade máxima
+- Progresso visível mínimo
+- Taxa de abandono mais alta
+- A maioria das pessoas confunde isso com evidência de que o caminho estava errado
 
-Each completed Hero's Journey is one V-cycle. Each return with the elixir is the beginning of the next V1. This is why [[sources/deepnesser#the-ultimate-principle|Za Ending]] ends with *"productive incompleteness, all the way down"* — completing one journey *starts the next.*
+A jornada é *projetada* para passar por isso. Não é um estado de falha. É o custo da admissão à transformação.
 
-*See: [[frameworks/programming#spiraling-toward-center|Spiraling toward center]]*
-
----
-
-## The Mentor
-
-> *"These godlike figures are in fact symbolic representatives of the whole psyche, the larger and more comprehensive identity that supplies the strength that the personal ego lacks."*
-
-The mentor doesn't have to be a person. A framework is a mentor. A source document is a mentor. [[sources/deepnesser|Deepnesser]] is a mentor document — it supplies the structure the ego lacks when it wants to quit at V3.
-
-The mentor's job is [[sources/deepnesser#bootstrapping|Bootstrapping]]: minimum push to start the self-sustaining loop. The mentor's success is becoming unnecessary. → [[frameworks/philosophy#kamina-bootstrapping-as-philosophy|Kamina as mentor]]
+*Ver também: [[frameworks/philosophy#simons-arc|O vale de Simon após a morte de Kamina]]*
 
 ---
 
-## Follow Your Bliss
+## A Estrutura Cíclica
 
-> *"If you do follow your bliss you put yourself on a kind of track that has been there all the while, waiting for you."*
+Não uma vez. Não linear. Uma espiral ao longo da vida:
 
-Bliss is not preference. It is the deep signal beneath rational justification — the thing you would do regardless of external validation. Direction precedes justification. The calling comes before the credentials.
+> *"Repetidas vezes, você é chamado ao reino da aventura... Cada vez, há o mesmo problema: ouso?"*
 
----
+Cada Jornada do Herói completa é um ciclo-V. Cada retorno com o elixir é o início do próximo V1. É por isso que [[sources/deepnesser#the-ultimate-principle|Desfecho Za]] termina com *"incompletude produtiva, até o fundo"* — completar uma jornada *inicia a próxima.*
 
-## Return with the Elixir
-
-> *"Wisdom, love, or simply the experience of surviving the Special World."*
-
-The book being written is the elixir. This vault is the elixir — something that says: the Supreme Ordeal is survivable, the valley is not the end, V20 exists beyond V3.
-
-But: the Return immediately precedes the next Call. The Hero's Journey is [[sources/deepnesser#the-ultimate-principle|productively incomplete]] by design.
+*Ver: [[frameworks/programming#spiraling-toward-center|Espiralizando em direção ao centro]]*
 
 ---
 
-*→ [[sources/literature|Read the original text — full 12 stages with clinical applications]]*
-*Connected: [[frameworks/philosophy#simons-arc|Simon's arc]] · [[frameworks/deepnesser#the-v-curve|V-Curve]] · [[alva-saga/index|Alva Saga as Hero's Journey]]*
+## O Mentor
+
+> *"Essas figuras divinas são, de fato, representantes simbólicos da psique inteira, a identidade maior e mais abrangente que fornece a força que o ego pessoal não tem."*
+
+O mentor não precisa ser uma pessoa. Um framework é um mentor. Um documento-fonte é um mentor. [[sources/deepnesser|Deepnesser]] é um documento mentor — fornece a estrutura que o ego não tem quando quer desistir no V3.
+
+O papel do mentor é o [[sources/deepnesser#bootstrapping|Bootstrapping]]: o impulso mínimo para iniciar o loop autossustentável. O sucesso do mentor é tornar-se desnecessário. → [[frameworks/philosophy#kamina-bootstrapping-as-philosophy|Kamina como mentor]]
+
+---
+
+## Siga sua Felicidade
+
+> *"Se você seguir sua felicidade, você se coloca em um tipo de trilho que sempre esteve lá, esperando por você."*
+
+Felicidade não é preferência. É o sinal profundo por baixo da justificativa racional — a coisa que você faria independente de validação externa. A direção precede a justificativa. O chamado vem antes das credenciais.
+
+---
+
+## Retorno com o Elixir
+
+> *"Sabedoria, amor, ou simplesmente a experiência de sobreviver ao Mundo Especial."*
+
+O livro sendo escrito é o elixir. Este cofre é o elixir — algo que diz: a Provação Suprema é sobrevivível, o vale não é o fim, o V20 existe além do V3.
+
+Mas: o Retorno precede imediatamente o próximo Chamado. A Jornada do Herói é [[sources/deepnesser#the-ultimate-principle|produtivamente incompleta]] por design.
+
+---
+
+*→ [[sources/literature|Leia o texto original — 12 estágios completos com aplicações clínicas]]*
+*Conectado: [[frameworks/philosophy#simons-arc|O arco de Simon]] · [[frameworks/deepnesser#the-v-curve|Curva-V]] · [[alva-saga/index|Saga Alva como Jornada do Herói]]*

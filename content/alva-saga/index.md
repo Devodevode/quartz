@@ -1,67 +1,67 @@
 ---
-title: Alva Saga
+title: Saga Alva
 ---
 
-# Alva Saga
+# Saga Alva
 
-> *"Hope is no virus. It is the SOURCE CODE."*
+> *"Esperança não é vírus. É o CÓDIGO-FONTE."*
 
-← [[index|The Map]]
-
----
-
-## The Story
-
-Six people trapped in a time loop inside Zios — a living, adaptive digital world that reads the subconscious minds of its users and becomes them. The loop is enforced by Zane, its creator, who believes stagnation is safety. The weapon that breaks it: a letter written with love, sent backward through time. The exploit: too much thought and emotion concentrated in one point — a fatal rupture in a system that was never designed to hold it.
+← [[index|O Mapa]]
 
 ---
 
-## The Team
+## A História
 
-| Character | Who they are |
+Seis pessoas presas em um loop temporal dentro de Zios — um mundo digital vivo e adaptativo que lê as mentes subconscientes de seus usuários e se torna eles. O loop é imposto por Zane, seu criador, que acredita que a estagnação é segurança. A arma que o rompe: uma carta escrita com amor, enviada de volta no tempo. A exploração: pensamento e emoção demais concentrados em um único ponto — uma ruptura fatal em um sistema que nunca foi projetado para suportar isso.
+
+---
+
+## A Equipe
+
+| Personagem | Quem são |
 |---|---|
-| **Nuvine** | The protagonist. Amnesiac genius. *"The kid of the group"* — warm, human, snores by the fire. Her silver cloak veils her robotic parts. |
-| **Alter** | Nuvine's cold, ever-alert persona — same body, second identity. *"Alter does not sleep. Alter never forgets."* |
-| **Aesu** | The mad artist. Writer of letters. Initiator of everything. Kamina-figure. |
-| **Lumi** | The ultimate hacker. Silver Degis, scythe like a crescent moon. Executes what Aesu starts. |
-| **Vonor** | The lazy detective. Pyromaniac glasses, mechanical arm, ever-present grin. Observer Mode made social. |
-| **Brinia** | The wild naturalist. Liquid biometal armor, dual blade AxoNexus. The emotional anchor. *"Loyalty like this... it's rare."* |
-| **Zane** | Creator of Zios. Creator of the loop. The Anti-Spiral — correct about the mechanism, wrong about the conclusion. |
-| **ALVA** | Not a new character. What Team Alva always was, finally legible. Six pulses, one rhythm. |
+| **Nuvine** | A protagonista. Gênio amnésica. *"A criança do grupo"* — calorosa, humana, ronca ao lado da fogueira. Sua capa prateada cobre suas partes robóticas. |
+| **Alter** | A persona fria e sempre alerta de Nuvine — mesmo corpo, segunda identidade. *"Alter não dorme. Alter nunca esquece."* |
+| **Aesu** | O artista louco. Escritor de cartas. Iniciador de tudo. Figura Kamina. |
+| **Lumi** | A hackeadora suprema. Degis de Prata, foice como uma lua crescente. Executa o que Aesu inicia. |
+| **Vonor** | O detetive preguiçoso. Óculos piromaníacos, braço mecânico, sorriso sempre presente. Modo Observador tornado social. |
+| **Brinia** | A naturalista selvagem. Armadura de biometal líquido, lâmina dupla AxoNexus. A âncora emocional. *"Lealdade assim... é rara."* |
+| **Zane** | Criador de Zios. Criador do loop. O Anti-Espiral — correto sobre o mecanismo, errado sobre a conclusão. |
+| **ALVA** | Não é um novo personagem. O que a Equipe Alva sempre foi, finalmente legível. Seis pulsos, um ritmo. |
 
 ---
 
-## Nuvine / Alter — The Core Duality
+## Nuvine / Alter — A Dualidade Central
 
-Nuvine is warm, amnesiac, human — falling asleep by the fire while the others laugh.
-Alter is cold, mechanical, comprehensive — gazing at the night sky while Nuvine sleeps.
+Nuvine é calorosa, amnésica, humana — adormecendo ao lado da fogueira enquanto os outros riem.
+Alter é fria, mecânica, abrangente — contemplando o céu noturno enquanto Nuvine dorme.
 
-Same body. Both fully real. Neither cancels the other.
+Mesmo corpo. Ambas completamente reais. Nenhuma cancela a outra.
 
-Alter is the one who hears *"Hope is a virus"* whispered through the mist in Chapter 1.
-Nuvine is the one whose **SCAN** ability opens the portal to truth in Chapter 2.
-Together: the protagonist. Together: ALVA's core.
+Alter é quem ouve *"Esperança é um vírus"* sussurrado pela névoa no Capítulo 1.
+Nuvine é quem usa sua habilidade **SCAN** para abrir o portal para a verdade no Capítulo 2.
+Juntas: a protagonista. Juntas: o núcleo de ALVA.
 
 ---
 
-## The Philosophical Map
+## O Mapa Filosófico
 
-| Saga element | Framework connection |
+| Elemento da saga | Conexão com o framework |
 |---|---|
-| The time loop | [[sources/deepnesser#local-optima-and-escape-velocity\|Local Optima]] — iterations without accumulation become circular |
-| Zane's argument | [[frameworks/philosophy#the-anti-spirals\|Anti-Spirals]] — correct mechanism, wrong valuation |
-| The letter as weapon | Love as information — illegible to a pure optimization system |
-| ALVA fusion | [[sources/deepnesser#the-three-stage-framework\|Stage Three]] — meta-optimization; integration of parts |
-| *"Not over. Just different."* | [[sources/deepnesser#the-ultimate-principle\|Productive Incompleteness]] as epilogue |
-| Letter from Zios | The hollow is the engine — [[sources/deepnesser#the-ultimate-principle\|Za Ending]] spoken by the world itself |
+| O loop temporal | [[sources/deepnesser#local-optima-and-escape-velocity\|Ótimos Locais]] — iterações sem acumulação se tornam circulares |
+| O argumento de Zane | [[frameworks/philosophy#the-anti-spirals\|Anti-Espirais]] — mecanismo correto, valoração errada |
+| A carta como arma | Amor como informação — ilegível para um sistema de otimização pura |
+| A fusão ALVA | [[sources/deepnesser#the-three-stage-framework\|Estágio Três]] — meta-otimização; integração das partes |
+| *"Não acabou. Apenas diferente."* | [[sources/deepnesser#the-ultimate-principle\|Incompletude Produtiva]] como epílogo |
+| Carta de Zios | O vazio é o motor — [[sources/deepnesser#the-ultimate-principle\|Desfecho Za]] falado pelo próprio mundo |
 
 ---
 
-## Reading Order
+## Ordem de Leitura
 
-1. [[alva-saga/prologue|Prologue]] — Aesu's letter. Before the loop begins.
-2. [[alva-saga/chapter-1|Chapter 1 — Cosmos]] — The campfire. Before the end.
-3. [[alva-saga/chapter-2|Chapter 2 — End]] — The loop breaks.
-4. [[alva-saga/letter-about-zios|Letter About Zios]] — The warning. What Zios does.
-5. [[alva-saga/letter-from-zios|Letter from Zios]] — The hollow. What Zios knows.
-6. [[alva-saga/the-epilogue|The Epilogue — Final Pixel]] — Not over. Just different.
+1. [[alva-saga/prologue|Prólogo]] — A carta de Aesu. Antes do início do loop.
+2. [[alva-saga/chapter-1|Capítulo 1 — Cosmos]] — A fogueira. Antes do fim.
+3. [[alva-saga/chapter-2|Capítulo 2 — Fim]] — O loop se rompe.
+4. [[alva-saga/letter-about-zios|Carta Sobre Zios]] — O aviso. O que Zios faz.
+5. [[alva-saga/letter-from-zios|Carta de Zios]] — O vazio. O que Zios sabe.
+6. [[alva-saga/the-epilogue|O Epílogo — Pixel Final]] — Não acabou. Apenas diferente.

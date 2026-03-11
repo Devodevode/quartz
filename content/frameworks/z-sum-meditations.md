@@ -1,5 +1,5 @@
 ---
-title: "Meditations — Framework"
+title: "Meditações — Framework"
 tags:
   - stoicism
   - philosophy
@@ -7,348 +7,348 @@ tags:
   - self-improvement
   - books
 aliases:
-  - Meditations Summary
-  - Stoic Principles
+  - Resumo das Meditações
+  - Princípios Estoicos
 type: framework
 ---
 
-# Meditations — Marcus Aurelius
-### Stoicism · Will to Live Well · The Rational Faculty
+# Meditações — Marco Aurélio
+### Estoicismo · Vontade de Viver Bem · A Faculdade Racional
 
-> 📄 **Original text (verbatim):** [[sources/z-meditations|Source · 5 — Meditations]]
-> *This file is synthesis and cross-links. The source is the prose text.*
+> 📄 **Texto original (verbatim):** [[sources/z-meditations|Fonte · 5 — Meditações]]
+> *Este arquivo é síntese e referências cruzadas. A fonte é o texto em prosa.*
 
-← [[index|The Map]]
-
----
-
-## 1. When You Encounter Unkindness
-
-When receiving bad treatment or criticism from someone, either:
-- **They are right** → you have no right to complain.
-- **They are wrong** → they are misguided and have made a mistake.
-
-Remind yourself how many mistakes you've made in life and feel **pity** for them. Point out where they've gone wrong, but do so *affectionately* — not with hatred, and not to impress onlookers.
-
-Ask yourself: *what quality has nature given us to counter this defect?*
-> As an antidote to unkindness, nature gave us kindness. Use it and see what happens.
-
-> *"No matter what anyone says or does, my task is to be good."*
-
-Remember: any evil that men do you only harms your soul **if you do evil in return**. The noblest retribution is not to become like your enemy.
+← [[index|O Mapa]]
 
 ---
 
-## 2. Everything Is Interpretation
+## 1. Ao Encontrar a Crueldade
 
-> *"Everything is interpretation."* — a Cynic philosopher cited by Marcus Aurelius
+Ao receber mau tratamento ou crítica de alguém, ou:
+- **Eles estão certos** → você não tem direito de reclamar.
+- **Eles estão errados** → estão equivocados e cometeram um erro.
 
-This is not literally true, but it is a useful mental crutch. How things affect you is determined by your mind's **interpretation** of them, not the external things themselves.
+Lembre-se de quantos erros você cometeu na vida e sinta **pena** deles. Aponte onde erraram, mas faça isso *com afeto* — não com ódio, e não para impressionar observadores.
 
-Whatever happens, you can choose how to interpret it. **Choose not to feel harmed, and you haven't been.**
+Pergunte a si mesmo: *que qualidade a natureza nos deu para contrapor esse defeito?*
+> Como antídoto à crueldade, a natureza nos deu bondade. Use-a e veja o que acontece.
 
-> *"How easy it is to repel and wipe away every impression which is troublesome or unsuitable, and immediately be in all tranquillity."*
+> *"Independente do que qualquer um diga ou faça, minha tarefa é ser bom."*
 
-- Work on framing things positively.
-- You are what you continually think — take care which thoughts you allow to exist.
-- Your mind will take the shape of what you frequently hold in thought.
-
----
-
-## 3. Mind Over Body
-
-Your rational faculty — your mind — is the advantage you have over other animals. To follow nature is to make use of what nature has given you.
-
-Deep down you already know the things you should be doing. If you are not doing them, it is because your **body** has given you some reason not to.
-
-Do not allow pain, drowsiness, fever, or loss of appetite to alter your behavior. When bothered by these, remind yourself: *"I am giving in to pain."*
-
-Giving in makes your mind the slave of the body — leading to unhappiness.
-
-> *"Within 10 days you will appear a god even to those to whom today you seem a beast or a baboon, if you return to your principles and the worship of reason."*
+Lembre-se: qualquer mal que os homens lhe façam só prejudica sua alma **se você fizer o mal em retribuição**. A retribuição mais nobre é não se tornar como seu inimigo.
 
 ---
 
-## 4. Stay Mindful — Act Deliberately
+## 2. Tudo É Interpretação
 
-Frequently we go through life on **autopilot**. Enough of this.
+> *"Tudo é interpretação."* — um filósofo cínico citado por Marco Aurélio
 
-- No random actions.
-- Do not wander without a purpose.
-- Act deliberately.
+Isso não é literalmente verdade, mas é um suporte mental útil. Como as coisas o afetam é determinado pela **interpretação** que sua mente faz delas, não pelas coisas externas em si.
 
-Observe your own mind critically, as if observing someone else's. In every case, ask yourself: *"What am I currently employing my mind on? What sort of soul am I displaying?"*
+O que quer que aconteça, você pode escolher como interpretar. **Escolha não se sentir prejudicado, e você não terá sido.**
 
-If you can control your actions and think systematically, you will have an untroubled life. You can also find peace from external events at any time by **going within your own mind** — but do so briefly. Don't retreat from the world.
+> *"Como é fácil repelir e apagar toda impressão que seja perturbadora ou inadequada, e estar imediatamente em plena tranquilidade."*
 
----
-
-## 5. Humanity Is Born for Cooperation
-
-We are constituted for one another.
-
-- Do not allow yourself to become angry with those around you.
-- Do not fall into hatred.
-- Do not give up trying to make a positive difference.
-
-If you conceive of all rational beings as constituted for cooperation, then helping other people becomes a **joy**, not just the right thing to do.
-
-Learn to feel affection for others even when they make mistakes, by recognizing:
-- They are human too.
-- We all make mistakes.
-- Before long, they will die, just like you.
-- We are all in this together.
-
-A mental crutch: contemplate the **positive qualities** of those around you. When you need encouragement, think of the energy of one, the modesty of another, the generosity of a third.
+- Trabalhe para enquadrar as coisas positivamente.
+- Você é o que continuamente pensa — tome cuidado com quais pensamentos permite existir.
+- Sua mente tomará a forma do que você frequentemente mantém em pensamento.
 
 ---
 
-## 6. Your Own Opinion Matters Most
+## 3. Mente Sobre Corpo
 
-> *"It never ceases to amaze me — we all love ourselves more than other people, but care more about their opinion than our own."*
+Sua faculdade racional — sua mente — é a vantagem que você tem sobre os outros animais. Seguir a natureza é fazer uso do que ela lhe deu.
 
-This is not an exhortation to arrogance. It is a reminder to **do what you know is best** regardless of people's reactions. You know what you're about. You don't need to explain yourself to everyone.
+No fundo, você já sabe as coisas que deveria estar fazendo. Se não as está fazendo, é porque seu **corpo** lhe deu alguma razão para não fazê-las.
 
-Even worse is fawning over and seeking the praise of people you don't even respect.
+Não permita que dor, sonolência, febre ou falta de apetite alterem seu comportamento. Quando perturbado por essas coisas, lembre-se: *"Estou cedendo à dor."*
 
-**Conclusion:** Be honest and straightforward. Don't prance about or try to portray yourself as something you're not. Abstain from rhetoric and currying favor.
+Ceder torna sua mente escrava do corpo — levando à infelicidade.
 
-That said — **be open to correction.** Changing your mind when the evidence turns against you is a free and noble action. Just don't change it due to peer pressure.
-
----
-
-## 7. Cherish the Freedom of Others
-
-- Learn to endure the freedom of speech of others.
-- You cannot control them — learn to control your reaction instead.
-- Listen attentively and seek to place yourself in their shoes.
-- Uphold the rights of everyone as equal under the law.
-
-Recognize that **power corrupts.** If you ever find yourself in a position of power, check yourself. Resist becoming despotic.
-
-> *"Take care not to be transformed into a Caesar."*
+> *"Em dez dias você parecerá um deus até para aqueles aos quais hoje parece uma besta ou um babuíno, se retornar aos seus princípios e ao culto da razão."*
 
 ---
 
-## 8. Have Self-Respect
+## 4. Permaneça Consciente — Aja Deliberadamente
 
-With every act, ask: *"Am I respecting myself with this? Will I regret it?"*
+Com frequência passamos pela vida no **piloto automático**. Chega disso.
 
-Watch for and erase any impulse to express things you don't truly believe. Do not view anything as beneficial which causes you to:
-- Break a promise
-- Lose your self-respect
-- Hate anyone
+- Nenhuma ação aleatória.
+- Não vagueie sem propósito.
+- Aja deliberadamente.
 
-When roused to anger, remember: *there is nothing strong about giving in to emotion.* It is courtesy and kindness that define a human being.
+Observe sua própria mente criticamente, como se observasse a mente de outra pessoa. Em todo caso, pergunte a si mesmo: *"Em que estou empregando minha mente agora? Que tipo de alma estou exibindo?"*
 
-Make yourself neither tyrant nor slave of any man. Whatever happens, **avoid complaining.**
-
----
-
-## 9. The Obstacle Is the Way
-
-If something bad happens, say: *"Good — what new opportunities does this open up?"*
-
-> *"The impediment to action advances action. What stands in the way becomes the way."*
-
-Every event creates new possibilities. Saying *"good"* when something bad happens, and looking for the new opportunity, is a far healthier way of living than complaining.
+Se você puder controlar suas ações e pensar sistematicamente, terá uma vida sem perturbações. Você também pode encontrar paz dos eventos externos a qualquer momento **indo para dentro de sua própria mente** — mas faça isso brevemente. Não se retire do mundo.
 
 ---
 
-## 10. Adversity Is Part of Nature
+## 5. A Humanidade Nasceu para a Cooperação
 
-The universe is indifferent to your existence. Accept this for what it is — difficulties, setbacks, and even tragedies are part of life.
+Somos constituídos uns para os outros.
 
-Since these events are in fate's hands, do not pray for them not to occur. Instead, pray for the **strength of character** to endure them when they do.
+- Não se permita irritar com as pessoas ao seu redor.
+- Não caia no ódio.
+- Não desista de tentar fazer uma diferença positiva.
 
-> *"Why not rather pray for the gift to fear none of these things, to desire none of them, to sorrow for none of them?"*
+Se você conceber todos os seres racionais como constituídos para a cooperação, ajudar outras pessoas se torna uma **alegria**, não apenas a coisa certa a fazer.
 
-Be like the headland against which waves continually break — it stands firm and tames the fury of the water around it.
+Aprenda a sentir afeição pelos outros mesmo quando erram, reconhecendo:
+- Eles também são humanos.
+- Todos cometemos erros.
+- Em breve, eles morrerão, assim como você.
+- Estamos todos nisso juntos.
 
-> *"It's unfortunate that this has happened. No — it's fortunate that this has happened and I've remained unharmed by it."*
-
----
-
-## 11. Nothing New Under the Sun
-
-For the most part, everything has happened before. Whatever challenges you're facing, others have met them before.
-
-Let petty events wash off you and turn your attention to what really matters.
-
-> *"Keep before your eyes those who experienced it before you and felt shock and outrage — and now where are they? Nowhere."*
+Um suporte mental: contemple as **qualidades positivas** das pessoas ao seu redor. Quando precisar de encorajamento, pense na energia de um, na modéstia de outro, na generosidade de um terceiro.
 
 ---
 
-## 12. Stay Practical — Deal With What's in Front of You
+## 6. Sua Própria Opinião Importa Mais
 
-Stop being aimless. Maintain unwavering commitment and focus.
+> *"Nunca cessa de me espantar — todos nós nos amamos mais do que aos outros, mas nos preocupamos mais com a opinião deles do que com a nossa própria."*
 
-> *"If you seek tranquility, do fewer things — better."*
+Isso não é um exortação à arrogância. É um lembrete para **fazer o que você sabe ser melhor** independente das reações das pessoas. Você sabe quem é. Não precisa se explicar a todos.
 
-Do everything as if it were the last thing you were doing in your life. Rid yourself of unnecessary thoughts. Stop letting emotions project into the future, fabricating worries. **Master them and focus on the present.**
+Pior ainda é bajular e buscar o elogio de pessoas que você nem mesmo respeita.
 
-For any task at hand, ask: *"Why can't I endure it?"* You'll be embarrassed to answer.
+**Conclusão:** Seja honesto e direto. Não se enfeite ou tente se apresentar como algo que não é. Abstenha-se de retórica e de bajulação.
 
-Focus on the virtues that are in your power to bring forth:
-`honesty · dignity · endurance · austerity · patience · sincerity · moderation · magnanimity`
-
----
-
-## 13. Do What Is Right — Regardless of Outcome
-
-> *"If it is not right, do not do it. If it is not true, do not say it."*
-
-Do not be concerned with whether people recognize you for doing so. If you choose to do a kind act, don't do it in expectation of a future reward. The acts themselves are their own rewards.
-
-True delight and stillness is to move from one unselfish action to the next.
-
-Do not expect a perfect outcome. Be happy with the smallest progress and in the attempt of the good act itself.
+Dito isso — **esteja aberto à correção.** Mudar de ideia quando a evidência vai contra você é uma ação livre e nobre. Apenas não mude por pressão social.
 
 ---
 
-## 14. Ambition and Sanity
+## 7. Valorize a Liberdade dos Outros
 
-**Insanity** means tying your well-being to what other people say or do.
-**Sanity** means tying it to your own actions.
+- Aprenda a tolerar a liberdade de expressão dos outros.
+- Você não pode controlá-los — aprenda a controlar sua reação.
+- Ouça com atenção e procure se colocar no lugar deles.
+- Defenda os direitos de todos como iguais perante a lei.
 
-If you're in a position of authority, you may even be hated for your good actions. The important thing is that you are not dissuaded from the right course in search of applause.
+Reconheça que **o poder corrompe.** Se algum dia se encontrar em posição de poder, verifique a si mesmo. Resista a tornar-se déspota.
 
-> *"A king's part: to do good and to be reviled."*
-
-Teach yourself to desire only to act virtuously, and do not let others hold you back.
-
----
-
-## 15. Do Your Duty — Without Fear
-
-Stand up straight in life. Don't be propped up by others.
-
-> *"The spot where a person decides to station himself — that's where he ought to take his stand and face the enemy, and not worry about being killed or about anything but doing his duty."*
-
-Focus more on whether what you're doing is **right or wrong** than on the risk it brings you.
+> *"Tome cuidado para não se transformar em um César."*
 
 ---
 
-## 16. Life Is Short — Act Now
+## 8. Tenha Autorrespeito
 
-Decide once and for all to pursue **justice, honesty, courage, self-control, and rational action** above all else.
+A cada ato, pergunte: *"Estou me respeitando com isso? Vou me arrepender?"*
 
-Remind yourself how often you have procrastinated and wasted chances. Your time here is limited.
+Fique atento e apague qualquer impulso de expressar coisas nas quais você não acredita verdadeiramente. Não veja como benéfico nada que faça você:
+- Quebrar uma promessa
+- Perder o autorrespeito
+- Odiar alguém
 
-> *"Stop seeking approval from others. Stop putting things off. Decide today to start taking action. Death overshadows you. While you're alive and able — be good."*
+Quando provocado à raiva, lembre-se: *não há nada de forte em ceder à emoção.* É a cortesia e a bondade que definem um ser humano.
 
-A mental crutch: think of your life behind you as **already dead**, and that from today you are living a new, shorter life. Take this new life and live it properly.
-
----
-
-## 17. Get Back on Track
-
-Life is an obstacle course. No matter how wise you are, things will throw you off balance.
-
-When this happens, **center yourself at once** before proceeding. The more you practice this, the better you will get.
-
-> *"When jarred unavoidably by circumstances, revert at once to yourself and don't lose the rhythm more than you can help."*
-
-Whatever negative compulsions you've overcome, there will come a time when you fall off the wagon. Recognize when this happens and practice pulling yourself back.
-
-> *"Not to feel exasperated or defeated or despondent because your days aren't packed with wise and moral actions — but to get back up when you fail."*
+Não se faça tirano nem escravo de nenhum homem. Aconteça o que acontecer, **evite reclamar.**
 
 ---
 
-## 18. Avoid Pride and Showing Off
+## 9. O Obstáculo É o Caminho
 
-Pride and outward show is the arch seducer of reason.
+Se algo ruim acontece, diga: *"Ótimo — que novas oportunidades isso abre?"*
 
-> *"When you think you're occupied in the weightiest business — that's when pride has you in its spell."*
+> *"O impedimento à ação avança a ação. O que está no caminho se torna o caminho."*
 
-In all cases, look beneath to see things for what they truly are. A method of lessening the hold things have over you is to describe them plainly:
-- Expensive wine is just fancy grape juice.
-- Purple robes are just wool dyed with shellfish blood.
-
-Apply this not only to material things but to actions and behaviors. Examine people's ruling principles — what do they avoid or pursue? What evokes their vanity?
+Todo evento cria novas possibilidades. Dizer *"ótimo"* quando algo ruim acontece, e procurar a nova oportunidade, é uma forma de viver muito mais saudável do que reclamar.
 
 ---
 
-## 19. Speak Truth With Kindness
+## 10. A Adversidade Faz Parte da Natureza
 
-In all cases, speak the truth as you see it — **but with kindness and humility.**
+O universo é indiferente à sua existência. Aceite isso pelo que é — dificuldades, contratempos e até tragédias fazem parte da vida.
 
-Recognize that material wealth is neither a good nor an evil. It is how you use it that matters.
+Como esses eventos estão nas mãos do destino, não ore para que não aconteçam. Em vez disso, ore pela **força de caráter** para suportá-los quando ocorrerem.
 
-> *"Your only true goods are your virtues. Respect your own mind and prize that."*
+> *"Por que não orar pelo dom de não temer nenhuma dessas coisas, de não desejar nenhuma delas, de não lamentar nenhuma delas?"*
 
-Those who crave wealth are misguided — but so are those who despise it. It has an even stronger hold over them. Better: learn to not let it have any hold over you at all.
+Seja como o promontório contra o qual as ondas continuamente quebram — ele permanece firme e doma a fúria da água ao seu redor.
 
-- Use it when you have it, but be absolutely prepared to let it go.
-- Treat what you don't have as non-existent.
-- Look at what you have and think of how much you'd crave it if you didn't — but don't overvalue it to the point that losing it would upset you.
+> *"É uma pena que isso tenha acontecido. Não — é uma fortuna que isso tenha acontecido e eu tenha permanecido ileso por isso."*
 
 ---
 
-## 20. Express Gratitude
+## 11. Nada de Novo Sob o Sol
 
-Marcus Aurelius spends the entire first chapter of *Meditations* listing things he is grateful for. Highlights include:
+Na maioria das vezes, tudo já aconteceu antes. Quaisquer que sejam os desafios que você enfrenta, outros os encontraram antes.
 
-- Working on his own character and government of his temper
-- Generosity, charity, and a sense of humor
-- The value of investing in education
-- Learning to want little
-- Not meddling in the affairs of others
-- Not wasting time on frivolous matters
-- Writing simply and directly
-- Making peace with people he had fallen out with
-- Steadiness of purpose and self-control
-- How to receive gifts graciously without losing self-respect
-- Indifference to superficial honors
-- Listening to friends' troubles
-- Showing teachers respect and children unfeigned love
-- Stopping talking about what the good man is like — and just being one
+Deixe eventos triviais escorregarem e volte sua atenção ao que realmente importa.
+
+> *"Mantenha diante dos seus olhos aqueles que o experimentaram antes de você e sentiram choque e indignação — e agora onde estão eles? Em lugar nenhum."*
 
 ---
 
-## 21. Death and Impermanence
+## 12. Permaneça Prático — Lide Com o Que Está à Sua Frente
 
-Contemplate how many people have passed through this world before you — kings, philosophers, entire civilizations, all gone.
+Pare de ser sem rumo. Mantenha comprometimento e foco inabaláveis.
 
-Use the contemplation of impermanence not to despair, but to **loosen attachment** to the things you cling to, and to act well while you still can.
+> *"Se você busca tranquilidade, faça menos coisas — melhor."*
+
+Faça tudo como se fosse a última coisa que faria em sua vida. Livre-se de pensamentos desnecessários. Pare de deixar emoções projetarem-se no futuro, fabricando preocupações. **Domine-as e foque no presente.**
+
+Para qualquer tarefa em mãos, pergunte: *"Por que não consigo suportá-la?"* Você ficará envergonhado de responder.
+
+Foque nas virtudes que estão em seu poder manifestar:
+`honestidade · dignidade · resistência · austeridade · paciência · sinceridade · moderação · magnanimidade`
 
 ---
 
-## 22. Live According to Nature and Reason
+## 13. Faça o Certo — Independente do Resultado
 
-Everything is in flux. The universe is transformation. Life is opinion.
+> *"Se não é certo, não faça. Se não é verdadeiro, não diga."*
 
-Follow reason. Act in accordance with your nature as a rational being. Uphold the four virtues:
+Não se preocupe se as pessoas o reconhecerão por isso. Se você escolhe praticar um ato bondoso, não o faça esperando uma recompensa futura. Os atos em si são suas próprias recompensas.
 
-| Virtue | Description |
+A verdadeira alegria e serenidade é mover-se de uma ação desinteressada para a próxima.
+
+Não espere um resultado perfeito. Esteja feliz com o menor progresso e na tentativa do bom ato em si.
+
+---
+
+## 14. Ambição e Sanidade
+
+**Insanidade** significa vincular seu bem-estar ao que outras pessoas dizem ou fazem.
+**Sanidade** significa vinculá-lo às suas próprias ações.
+
+Se você está em posição de autoridade, pode até ser odiado por suas boas ações. O importante é que você não seja dissuadido do caminho certo em busca de aplausos.
+
+> *"O papel de um rei: fazer o bem e ser amaldiçoado por isso."*
+
+Ensine-se a desejar apenas agir virtuosamente, e não deixe os outros o segurar.
+
+---
+
+## 15. Cumpra Seu Dever — Sem Medo
+
+Fique de pé na vida. Não seja sustentado pelos outros.
+
+> *"O lugar onde uma pessoa decide se posicionar — lá é onde deve tomar sua posição e enfrentar o inimigo, e não se preocupar em ser morto ou com qualquer outra coisa além de cumprir seu dever."*
+
+Foque mais em se o que você está fazendo é **certo ou errado** do que no risco que isso lhe traz.
+
+---
+
+## 16. A Vida É Curta — Aja Agora
+
+Decida de uma vez por todas perseguir **justiça, honestidade, coragem, autocontrole e ação racional** acima de tudo.
+
+Lembre-se de quantas vezes você procrastinou e desperdiçou oportunidades. Seu tempo aqui é limitado.
+
+> *"Pare de buscar aprovação dos outros. Pare de adiar as coisas. Decida hoje começar a agir. A morte te observa. Enquanto você está vivo e capaz — seja bom."*
+
+Um suporte mental: pense em sua vida atrás de você como **já morta**, e que a partir de hoje você está vivendo uma vida nova e mais curta. Pegue essa nova vida e viva-a adequadamente.
+
+---
+
+## 17. Retome o Rumo
+
+A vida é um percurso de obstáculos. Não importa o quão sábio você seja, as coisas o desequilibrarão.
+
+Quando isso acontecer, **centre-se imediatamente** antes de prosseguir. Quanto mais você praticar isso, melhor ficará.
+
+> *"Quando inevitavelmente sacudido pelas circunstâncias, retorne a si mesmo de imediato e não perca o ritmo mais do que puder evitar."*
+
+Quaisquer que sejam as compulsões negativas que você superou, haverá um momento em que você escorregará. Reconheça quando isso acontece e pratique se recuperar.
+
+> *"Não se sentir exasperado, derrotado ou desanimado porque seus dias não estão repletos de ações sábias e morais — mas se levantar quando você falhar."*
+
+---
+
+## 18. Evite o Orgulho e a Ostentação
+
+O orgulho e a aparência exterior são o grande sedutor da razão.
+
+> *"Quando você pensa que está ocupado com o negócio mais importante — é quando o orgulho o tem em seu feitiço."*
+
+Em todos os casos, olhe por baixo para ver as coisas como realmente são. Um método para diminuir o domínio que as coisas têm sobre você é descrevê-las simplesmente:
+- Vinho caro é apenas suco de uva sofisticado.
+- Mantos púrpura são apenas lã tingida com sangue de molusco.
+
+Aplique isso não apenas a coisas materiais, mas a ações e comportamentos. Examine os princípios orientadores das pessoas — o que elas evitam ou buscam? O que evoca sua vaidade?
+
+---
+
+## 19. Diga a Verdade com Bondade
+
+Em todos os casos, diga a verdade como a vê — **mas com bondade e humildade.**
+
+Reconheça que a riqueza material não é nem um bem nem um mal. É como você a usa que importa.
+
+> *"Seus únicos bens verdadeiros são suas virtudes. Respeite sua própria mente e valorize isso."*
+
+Os que anseiam por riqueza estão equivocados — mas também estão os que a desprezam. Ela os controla ainda mais fortemente. Melhor: aprenda a não deixar que ela tenha nenhum domínio sobre você.
+
+- Use-a quando a tiver, mas esteja absolutamente preparado para deixá-la ir.
+- Trate o que você não tem como inexistente.
+- Olhe para o que você tem e pense em quanto desejaria se não tivesse — mas não o supervalorize a ponto de perdê-lo te perturbar.
+
+---
+
+## 20. Expresse Gratidão
+
+Marco Aurélio passa o primeiro capítulo inteiro das *Meditações* listando coisas pelas quais é grato. Os destaques incluem:
+
+- Trabalhar em seu próprio caráter e no governo de seu temperamento
+- Generosidade, caridade e senso de humor
+- O valor de investir em educação
+- Aprender a querer pouco
+- Não se meter nos assuntos dos outros
+- Não desperdiçar tempo em assuntos frívolos
+- Escrever de forma simples e direta
+- Fazer as pazes com pessoas com quem tinha divergências
+- Constância de propósito e autocontrole
+- Como receber presentes graciosamente sem perder o autorrespeito
+- Indiferença a honrarias superficiais
+- Ouvir os problemas dos amigos
+- Mostrar respeito aos professores e amor genuíno às crianças
+- Parar de falar sobre como é o homem bom — e simplesmente ser um
+
+---
+
+## 21. Morte e Impermanência
+
+Contemple quantas pessoas passaram por este mundo antes de você — reis, filósofos, civilizações inteiras, todos desaparecidos.
+
+Use a contemplação da impermanência não para desesperar, mas para **afrouxar o apego** às coisas às quais você se agarra, e para agir bem enquanto ainda pode.
+
+---
+
+## 22. Viva de Acordo com a Natureza e a Razão
+
+Tudo está em fluxo. O universo é transformação. A vida é opinião.
+
+Siga a razão. Aja de acordo com sua natureza como ser racional. Sustente as quatro virtudes:
+
+| Virtude | Descrição |
 |--------|-------------|
-| **Wisdom** | Knowing what is good, bad, or indifferent |
-| **Justice** | Giving to each their due; cooperation |
-| **Courage** | Acting rightly in the face of fear or hardship |
-| **Temperance** | Moderation; mastery over impulse |
+| **Sabedoria** | Saber o que é bom, mau ou indiferente |
+| **Justiça** | Dar a cada um o que lhe é devido; cooperação |
+| **Coragem** | Agir corretamente diante do medo ou da dificuldade |
+| **Temperança** | Moderação; domínio sobre o impulso |
 
-> *"Stop talking about what the good man is like — and just be one."*
-
----
-
-## Key Mental Crutches
-
-| Crutch | Principle |
-|--------|-----------|
-| 🔁 **Reframe harm** | Choose not to feel harmed, and you haven't been |
-| 🪨 **Be the headland** | Stand firm as waves crash against you |
-| 🚧 **Obstacle is the way** | What stands in the way becomes the way |
-| ☠️ **You are already dead** | Treat past life as over; live the new one well |
-| 🌍 **Nothing new under the sun** | Others have faced this before |
-| 👁️ **Strip it bare** | See things for what they truly are |
-| 🙏 **Gratitude first** | Begin by listing what you're grateful for |
-| 🔄 **Get back on track** | Fall, notice, return. Repeat |
+> *"Pare de falar sobre como é o homem bom — e simplesmente seja um."*
 
 ---
 
-## Related
+## Suportes Mentais Principais
 
-- [[frameworks/philosophy|Philosophy — Nietzsche · Will to Power]]
-- [[frameworks/psychology|Psychology — Deletion as Discipline]]
-- [[sources/z-meditations|Source · 5 — Meditations (verbatim)]]
-- [[index|The Map]]
+| Suporte | Princípio |
+|--------|-----------| 
+| 🔁 **Reencadre o dano** | Escolha não se sentir prejudicado, e você não terá sido |
+| 🪨 **Seja o promontório** | Permaneça firme enquanto as ondas quebram contra você |
+| 🚧 **O obstáculo é o caminho** | O que está no caminho se torna o caminho |
+| ☠️ **Você já está morto** | Trate a vida passada como encerrada; viva a nova adequadamente |
+| 🌍 **Nada de novo sob o sol** | Outros enfrentaram isso antes |
+| 👁️ **Despoje tudo** | Veja as coisas como realmente são |
+| 🙏 **Gratidão primeiro** | Comece listando pelo que é grato |
+| 🔄 **Retome o rumo** | Caia, perceba, retorne. Repita |
+
+---
+
+## Relacionados
+
+- [[frameworks/philosophy|Filosofia — Nietzsche · Vontade de Poder]]
+- [[frameworks/psychology|Psicologia — Exclusão como Disciplina]]
+- [[sources/z-meditations|Fonte · 5 — Meditações (verbatim)]]
+- [[index|O Mapa]]
