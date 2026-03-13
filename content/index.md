@@ -64,6 +64,37 @@ Se um framework afirma algo, vá à fonte para verificar. São coisas distintas.
 
 ---
 
+## Notas de Pensamento
+
+| | |
+|---|---|
+| [[notas-de-pensamento/index\|Índice]] | Visão geral da pasta |
+| [[notas-de-pensamento/opiniao-e-ruido\|Opinião e Ruído]] | O que absorver do mundo — e o que ignorar |
+| [[notas-de-pensamento/morte-urgencia-tempo\|Morte, Urgência e Tempo]] | Mortalidade, finitude, o que o prazo faz com o sentido |
+| [[notas-de-pensamento/abismo-monstros-beleza\|Abismo, Monstros e Beleza]] | Nietzsche, Dostoiévski, a zarza ardente |
+| [[notas-de-pensamento/ordem-caos-fogo\|Ordem, Caos e Fogo]] | Equilíbrio entre estrutura e transformação |
+| [[notas-de-pensamento/arte-disciplina-fogo\|Arte, Disciplina e Fogo]] | Bukowski, a vida maximizada, atravessar o fogo |
+| [[notas-de-pensamento/fantasia-ficcao-limites\|Fantasia, Ficção e Limites]] | O impossível vs. o improvável; trazer o céu à terra |
+| [[notas-de-pensamento/amor-julgamento-crescimento\|Amor, Julgamento e Crescimento]] | Amor como dança, compaixão e julgamento |
+| [[notas-de-pensamento/identidade-subjetividade\|Identidade e Subjetividade]] | Como a identidade se forma; inteligências no plural |
+
+---
+
+## Notas
+
+| | |
+|---|---|
+| [[notas-sessao/analise-abrangente\|Análise Abrangente]] | O sistema inteiro de uma vez — todas as camadas |
+| [[notas-sessao/sumario\|Sumário]] | Visão geral de todas as notas — o fio central |
+| [[notas-sessao/sonho\|Sonho]] | A instalação branca · a slime · a mão na parede |
+| [[notas-sessao/sistemas-de-conhecimento\|Sistemas de Conhecimento]] | NKD · Elite.txt · LibreBase · o paradoxo arquiteto-estudante |
+| [[notas-sessao/projetos\|Projetos]] | CS50 · universidade · a coincidência do banco de dados |
+| [[notas-sessao/numeros-42-72\|Números — 42 e 72]] | O Guia do Mochileiro · Deep Thought · sincronicidade |
+| [[notas-sessao/zios-e-conexoes\|Zios e Conexões]] | Equipe Alva · o loop · o que Zios aprendeu |
+| [[notas-sessao/padroes\|Padrões]] | Threads transversais que atravessam tudo |
+
+---
+
 ## A Tese
 
 ```
